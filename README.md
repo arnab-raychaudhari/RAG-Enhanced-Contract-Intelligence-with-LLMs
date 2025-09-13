@@ -1,2 +1,2 @@
 # RAGov-contract-analysis
-RAGov: Retrieval-Augmented AI for Contract Analysis
+Leveraging AI to Enhance Data Driven Insights for Government Contracts
