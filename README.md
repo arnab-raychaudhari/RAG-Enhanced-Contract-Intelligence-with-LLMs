@@ -2,7 +2,7 @@
 Leveraging AI to Enhance Data Driven Insights for Government Contracts
 
 ## Project Introduction
-This project was undertaken, executed, and completed as part of the Master of Science in Business Analytics program at George Washington University. As a requirement of the degree, I was tasked with partnering with a real-world business (my client) to address an ongoing problem using advanced Artificial Intelligence techniques. The project spanned three months and was successfully delivered to the client in December 2024.
+This project was undertaken, executed, and completed as part of the Master of Science in Business Analytics program at George Washington University. As a requirement of the degree, I was tasked with partnering with a real-world business (my client) to address an ongoing problem using advanced Artificial Intelligence techniques. The project spanned four months and was successfully delivered to the client in December 2024.
 
 ## Executive Summary
 FI Consulting faces a significant need for a reliable system capable of accurately retrieving and
