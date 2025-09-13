@@ -175,13 +175,13 @@ responses. The subsequent sections provide a detailed breakdown of the technical
 underpinnings of this workflow.
 
 ### Software and Libraries
-Programming Language: ![Python](https://github.com/arnab-raychaudhari/stock-aggregation-data-pipeline/blob/9f69abd4d570c16be5bc47b330bca84032e24aa5/logos--python.svg)Python
+Programming Language: ![Python](https://github.com/arnab-raychaudhari/stock-aggregation-data-pipeline/blob/9f69abd4d570c16be5bc47b330bca84032e24aa5/logos--python.svg)**Python**
 
 Python is a versatile, high level programming language known for its readability and vast
 ecosystem of libraries. It is widely used in data science, web development, and machine learning
 due to its simplicity and extensive community support (Van Rossum, 1995).
 
-[NLTK](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/815a1c04a7d4181f61ba9be0905f2aef357d78f2/logo--nltk.webp)NLTK
+**NLTK (Natural Language Toolkit)**
 Developed by researchers at the University of Pennsylvania, NLTK is a leading platform for
 building Python programs to work with human language data. It provides tools for text
 preprocessing, tokenization, stemming, and linguistic analysis, making it indispensable for natural
