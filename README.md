@@ -181,3 +181,11 @@ Python is a versatile, high level programming language known for its readability
 ecosystem of libraries. It is widely used in data science, web development, and machine learning
 due to its simplicity and extensive community support (Van Rossum, 1995).
 
+[NLTK](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/815a1c04a7d4181f61ba9be0905f2aef357d78f2/logo--nltk.webp)NLTK
+Developed by researchers at the University of Pennsylvania, NLTK is a leading platform for
+building Python programs to work with human language data. It provides tools for text
+preprocessing, tokenization, stemming, and linguistic analysis, making it indispensable for natural
+language processing (NLP) tasks (Bird et al., 2023).
+
+
+
