@@ -175,7 +175,7 @@ responses. The subsequent sections provide a detailed breakdown of the technical
 underpinnings of this workflow.
 
 ### Software and Libraries
-Programming Language: ![Python](https://github.com/arnab-raychaudhari/stock-aggregation-data-pipeline/blob/9f69abd4d570c16be5bc47b330bca84032e24aa5/logos--python.svg)**Python**
+Programming Language: ![Python](https://github.com/arnab-raychaudhari/stock-aggregation-data-pipeline/blob/9f69abd4d570c16be5bc47b330bca84032e24aa5/logos--python.svg)<a href="https://www.python.org/about/" target="_blank">Python</a>
 
 Python is a versatile, high level programming language known for its readability and vast
 ecosystem of libraries. It is widely used in data science, web development, and machine learning
