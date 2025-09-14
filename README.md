@@ -294,3 +294,286 @@ the data .
 <b>Figure 1: Data Loading Code Snippet</b>
 
 ![Figure 1: Data Loading Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d0e8a56a049924163d6af10b504a3ede104f4ac2/Figure%201%20Data%20Loading%20Code%20Snippet.png)
+
+### Chunking
+In the text chunking process, the raw data is segmented into smaller, manageable pieces called
+"chunks." This stage is essential for optimizing the processing of lengthy documents, enabling
+efficient embeddings and retrieval in the RAG pipeline. Chunking is implemented using the
+RecursiveCharacterTextSplitter from LangChain, combined with OpenAI's tiktoken encoder.
+These tools work together to ensure each chunk is appropriately sized for downstream processing
+while maintaining semantic coherence.
+
+#### RecursiveCharacterTextSplitter
+The RecursiveCharacterTextSplitter is a versatile tool designed to split long texts into smaller
+chunks based on specified separators. For this project, the separators include ["\n\n", "\n", ". ", " ",
+""], which prioritize splitting text at natural boundaries like paragraphs, sentences, and spaces.
+This recursive approach ensures that text is split logically, retaining meaning and context within
+each chunk. It also prevents abrupt truncation of sentences or important content.
+
+Chunk Size: Set to 512 characters, this size aligns with typical tokenization limits for LLMs,
+balancing granularity and context retention.
+
+Chunk Overlap: Defined as 50 characters, overlap ensures that key information straddling chunk
+boundaries is preserved. This is particularly important for maintaining semantic continuity and
+improving retrieval quality.
+
+#### <b><a href="https://github.com/openai/tiktoken" target="_blank">Tiktoken Encoder</a></b>
+The tiktoken encoder, developed by OpenAI, is a tokenizer specifically designed for large
+language models like GPT to enhance tokenization efficiency and compatibility with their LLM
+architectures. It translates text into a sequence of tokens that the model can process. The integration
+of tiktoken within the splitter ensures that the chunking respects the tokenization logic of the
+underlying LLM, preventing errors related to token overflow or misalignment.
+
+#### Why Chunking is Important?
+1. Efficient Embeddings: Large documents can exceed token limits of models like GPT.
+2. Chunking ensures that text is divided into processable segments.
+Improved Retrieval: Smaller chunks allow more granular and precise information retrieval,
+essential for the RAG framework.
+3. Semantic Coherence: Recursive splitting with overlaps maintains the integrity of content,
+ensuring each chunk is meaningful and retains context.
+4. Performance Optimization: Processing smaller chunks reduces computational overhead
+and prevents memory bottlenecks during embedding generation and model inference.
+
+The combination of RecursiveCharacterTextSplitter and tiktoken is ideal for the project as it aligns
+with the requirements of LLM tokenization and retrieval-based applications. By optimizing chunk
+sizes and overlaps, this approach ensures the LLM receives high-quality input for embedding
+generation and contextual retrieval. Figure 2 shows the code implemented to facilitate chunking.
+
+<b>Figure 2: Chunking Code Snippet</b>
+
+![Figure 2: Chunking Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/fc2209cd58d94f3ea65af778857f6b6e4d077701/Figure%202%20Chunking%20Code%20Snippet.png)
+
+### Embedding Creation and ChromaDB
+This step is crucial in preparing the system for accurate and contextually relevant document
+retrieval, a core component of the RAG framework. Embedding generation transforms textual data
+into numerical representations, enabling similarity-based searches in a high-dimensional vector
+space. The embeddings are stored and managed using ChromaDB, a scalable vector database
+optimized for efficient storage and retrieval of high-dimensional data.
+
+#### Embedding Creation
+Embeddings are numerical representations of text, allowing semantic information to be captured
+in a vector format. For this project, embeddings were created using a custom embedding model
+(embed_model). Here’s how the process works:
+The embed_model (a SentenceTransformer-based model) processes the text of new or modified
+documents. It generates embeddings, ensuring that semantically similar documents are close in the
+vector space.
+
+#### Why Embeddings are Necessary?
+Embeddings enable similarity computations like cosine similarity or cosine distance to match user
+queries with relevant documents. Unlike traditional keyword searches, embeddings capture the semantic essence of text, improving
+retrieval accuracy.
+
+#### Process Flow
+Check for Existing Embeddings: The script first identifies which documents already have
+embeddings stored in ChromaDB by comparing document IDs.
+
+Embed Only New Documents: To optimize performance, only new or modified documents are
+passed to the embedding model.
+
+Batch Embedding: Embeddings are generated in batches, minimizing memory overhead while
+ensuring parallel processing efficiency.
+
+#### ChromaDB Integration
+ChromaDB is a vector database designed to efficiently store, search, and retrieve embeddings. It
+supports scalable management of high-dimensional vector data, making it ideal for RAG pipelines
+where quick, similarity-based document retrieval is required.
+
+##### Why ChromaDB is Ideal for This Project?
+1. Persistence: Embeddings and associated metadata are stored persistently in a directory
+(new_persist_directory), allowing the system to avoid re-computation across runs. This
+saves computation time and makes the system efficient when scaling to larger datasets.
+2. Efficient Retrieval: ChromaDB supports vector similarity operations, enabling quick
+identification of documents that are semantically closest to the user’s query.
+3. Flexibility: Collections in ChromaDB allow logical separation of embeddings based on
+application domains (e.g., Farm_Bill, GAO, etc.).
+4. Metadata and embeddings can be dynamically updated, ensuring relevance.
+
+#### MXBAI embedding model
+The MXBAI model (an embedding model developed by MixedBread AI) is leveraged for its
+superior ability to generate high-dimensional embeddings optimized for tasks such as semantic
+similarity and contextual information retrieval.
+Here's why it is preferred:
+1. High Semantic Fidelity: MXBAI embeddings are fine tuned for extracting nuanced
+meanings from complex, unstructured text. This makes it highly suitable for domains like
+federal contracting and legislative analysis, where context is critical.
+2. Efficiency: MXBAI is designed to handle large scale datasets efficiently without
+compromising the quality of the embeddings. This aligns well with the project's focus on
+optimizing performance while dealing with vast collections of documents.
+3. Specialized Use Cases: MXBAI has been tailored to perform well on tasks requiring high
+precision and recall in document retrieval. For example, in comparing legislative bills, it
+captures subtle policy differences that might otherwise go unnoticed.
+Compatibility with ChromaDB: The model integrates seamlessly with ChromaDB’s vector
+storage and retrieval system, ensuring persistent, scalable embeddings that can be reused
+and updated as needed.
+
+MXBAI excels in tasks such as clustering, ranking, and semantic search, which are central to
+Retrieval Augmented Generation pipelines. These capabilities make it ideal for applications like
+this project, where accurate information retrieval is paramount.
+
+Overall Importance:
+1. Operational Validation: By listing and sorting collections, the system ensures that it is
+working with the most relevant and up to date embeddings.
+2. Scalability: Persistent collections allow the system to scale and handle multiple use cases
+without reprocessing embeddings unnecessarily.
+3. Robustness: Handling errors and logging performance metrics ensure smooth operation
+and debugging.
+4. Optimized Retrieval: Using a precise embedding model like MXBAI maximizes the
+effectiveness of document retrieval, enhancing the reliability of the RAG pipeline. Figure
+3 shows code of how the MXBAI was implemented.
+
+![Figure 3: MXBAI Embedding Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/fc2209cd58d94f3ea65af778857f6b6e4d077701/Figure%203%20MXBAI%20Embedding%20Code%20Snippet.png)
+
+#### Cosine Distance and Cosine Similarity
+Cosine similarity and cosine distance are metrics used to measure the orientation or angle
+between two high dimensional vectors. These metrics are widely used in natural language
+processing (NLP) and information retrieval tasks, particularly for comparing text embeddings
+generated by models like MXBAI or Sentence Transformers. Figure 4 shows the code of how
+the Cosine similarity was performed.
+
+##### Cosine Similarity
+Definition: Measures the cosine of the angle between two vectors. A value close to 1 indicates that
+the vectors are pointing in the same direction (high similarity), while a value closer to 0 indicates
+low similarity.
+Interpretation: If two embeddings have a cosine similarity of 1, they are identical in terms of
+direction (perfect semantic similarity). If the similarity is 0, they are orthogonal (completely
+dissimilar).
+
+##### Cosine Distance
+A complementary metric derived from cosine similarity. It measures the dissimilarity between two
+vectors, defined as:
+Cosine Distance = 1−Cosine Similarity
+Purpose: Highlights dissimilarity, making it useful for ranking or filtering out irrelevant data.
+
+##### Logic Behind Using Cosine Similarity and Distance
+1. Handling Embeddings: Document embeddings represent text in a high dimensional vector
+space where semantically similar texts are closer to each other. Cosine similarity ensures
+that the comparison focuses on orientation (semantic similarity), rather than magnitude,
+which is irrelevant in NLP tasks.
+2. Retrieval and Ranking: By calculating the cosine similarity between the query embedding
+and document embeddings, we identify which documents are most relevant to the query.
+Cosine distance provides an inverse measure to rank the least similar documents if needed.
+3. Efficiency: By leveraging precomputed embeddings stored in ChromaDB, the system
+avoids re-computation, improving runtime performance.
+4. Scalability: This approach can handle thousands of embeddings efficiently, making it ideal
+for large-scale applications.
+5. Relevance Filtering: This method ensures only the most relevant document chunks are
+retrieved and fed into the retrieval-augmented generation (RAG) system, enhancing
+response accuracy.
+
+![Figure 4: Cosine Similarity and Distance Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/fc2209cd58d94f3ea65af778857f6b6e4d077701/Figure%204%20Cosine%20Similarity%20and%20Distance%20Code%20Snippet.png)
+
+#### Initiating the Retriever and Reranker
+The retriever is a critical component in the Retrieval Augmented Generation (RAG) framework,
+responsible for extracting relevant document chunks from the vector database based on the user's
+query. This code segment dynamically configures the retriever by determining the number of
+document chunks (doc_chunks_to_retrieve) that should be retrieved from the database for further
+processing.
+
+##### Logic Behind Retriever Initialization
+The number of document chunks to retrieve is calculated based on the conditions:
+• If overwrite_doc_chunks is enabled, a pre-set value (doc_chunk_val) determines the
+retrieval size, ensuring precise control over chunk retrieval.
+• If the total number of chunks (len(chunks)) exceeds 200, a fixed number (100) is retrieved,
+balancing computational efficiency with context depth.
+• Otherwise, a proportional value (half the total chunks) is calculated for retrieval,
+maintaining relevance without overloading the system.
+
+##### Why Important?
+Focused Contextual Retrieval: By selecting a precise number of document chunks, the retriever
+ensures that the downstream language model is provided with only the most relevant context,
+enhancing the accuracy of responses.
+Efficiency: Dynamically determining doc_chunks_to_retrieve avoids overloading the system with
+unnecessary data, optimizing retrieval time and memory usage.
+Scalability: The logic is adaptable for large datasets, balancing the tradeoff between relevance and
+computational load.
+Re-Ranker Integration: When need_reranking is enabled, the retriever works in conjunction with
+a ranking mechanism to prioritize the top documents, further refining the context for the RAG
+pipeline.
+
+#### ReRanking
+The reranker implemented in the code uses the HuggingFaceCrossEncoder11, specifically the
+model BAAI/bge-reranker-v2-m3. originates from the Beijing Academy of Artificial Intelligence
+(BAAI), a leading research institution in AI. The institution is renowned for its contributions to
+advancing deep learning techniques, particularly in natural language processing and model
+optimization.
+
+Reranking is a process in which an initial set of retrieved results is reorganized or reprioritized
+based on their relevance to a given query. In the context of the code provided, reranking is
+implemented to refine the selection of document chunks retrieved from a vector database. This
+ensures that the most contextually relevant and high-quality results are prioritized for use by the
+Retrieval Augmented Generation (RAG) framework. Figure 5 shows code implemented to
+facilitate the re-ranking.
+
+Cross-Encoder Reranker Initialization: A model (HuggingFaceCrossEncoder) is used to compute
+relevance scores for each document in the retrieved set relative to the user query.
+The CrossEncoderReranker assigns scores to each document query pair, enabling a more nuanced
+understanding of relevance than traditional retrieval.
+
+Compression Retriever: It integrates the reranker and base retriever, ensuring that only the most
+relevant chunks are selected.
+
+This combination reduces the computational load on the downstream language model by feeding
+it a smaller, more targeted subset of documents.
+
+##### Why Important?
+1. Improved Relevance: Reranking evaluates the retrieved documents against the query using
+a more sophisticated model (cross-encoder) that understands both context and
+relationships. This ensures that the results are not just approximate matches but highly
+relevant to the user's needs.
+2. Enhances LLM Performance: Large Language Models (LLMs) like GPT rely heavily on
+the context provided during inference. Feeding the model with highly relevant and curated
+data improves the quality, accuracy, and reliability of the generated responses.
+3. Contextual Prioritization: In scenarios where multiple documents are retrieved, not all are
+equally important. Reranking helps prioritize the documents that provide the most value,
+ensuring that critical information is not overlooked.
+4. Scalability and Efficiency: By reducing the number of documents passed to the LLM,
+reranking lowers computational overhead. This is particularly important in large-scale
+applications where both the number of documents and the complexity of queries can be
+significant.
+5. Mitigating Noise: Raw retrieval often includes documents that are less relevant or contain
+peripheral information. Reranking filters out this noise, focusing on documents that directly
+address the user's query.
+6. User Experience: Reranked results lead to more concise, precise, and contextually accurate
+answers, enhancing the overall user experience.
+
+![Figure 5: Re-ranking Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/fc2209cd58d94f3ea65af778857f6b6e4d077701/Figure%205%20Re-ranking%20Code%20Snippet.png)
+
+#### Invoking the Retrieval Chain
+
+Invoking the retrieval chain to generate responses based on the input query (user_prompt) and the
+retrieved context. It includes the flexibility to either augment responses with context retrieved
+using Retrieval Augmented Generation (RAG) or bypass the RAG step when reranking is not
+required or when contextual documents are absent. Here’s why this flexibility is important:
+
+Conditional RAG-Augmented Response:
+If need_reranking == "Yes", the process ensures that the most contextually relevant documents are
+identified and reranked before feeding them to the retrieval chain for response generation.
+If need_reranking == "No", the retrieval chain uses the documents retrieved directly from the
+vector database without additional reranking.
+
+##### Why Flexibility is Important?
+1. Addressing Context Limited Scenarios: When no relevant documents are retrieved from
+the vector database, RAG might fail to produce a meaningful response. In such cases,
+bypassing RAG allows the model to answer the query based on its internal pre-trained
+knowledge, ensuring a response is generated even without external context.
+2. Streamlining for Simpler Queries: Not all queries require extensive contextual grounding.
+For instance, straightforward or generalized queries may not benefit from RAG, and
+bypassing it can save computational resources and time.
+3. Balancing Accuracy and Performance: RAG adds a layer of accuracy by grounding
+4. responses in external data but can increase latency. By enabling a "no RAG" path, the
+system remains responsive for queries that prioritize speed over exhaustive context.
+Fallback Mechanism for Missing Context: In cases where the retrieval system fails to locate
+relevant documents, the flexibility ensures that the model doesn’t rely solely on absent or
+irrelevant data. This fallback mechanism avoids generating hallucinated responses based
+on incorrect context.
+5. Resource Efficiency: Bypassing unnecessary processes (like RAG) for certain queries
+reduces computational overhead and speeds up response generation.
+6. Versatility in Applications: Systems employing this methodology can adapt to varied use
+cases, from knowledge-intensive tasks like legislative analysis to general purpose
+querying, without compromising flexibility.
+
+By including this flexibility, the system ensures both robustness and adaptability, maintaining high
+performance while avoiding the pitfalls of over-reliance on RAG when context is absent or
+irrelevant. Figure 6 shows the code implemented to initiate the retrieval chain.
+
+![Figure 6: Invoking the Retrieval Chain Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/fc2209cd58d94f3ea65af778857f6b6e4d077701/Figure%206%20Invoking%20the%20Retrieval%20Chain%20Code%20Snippet.png)
