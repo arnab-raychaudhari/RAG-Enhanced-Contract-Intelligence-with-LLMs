@@ -421,6 +421,7 @@ and debugging.
 effectiveness of document retrieval, enhancing the reliability of the RAG pipeline. Figure
 3 shows code of how the MXBAI was implemented.
 
+<b>Figure 3: MXBAI Embedding Code Snippet</b>
 ![Figure 3: MXBAI Embedding Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/fc2209cd58d94f3ea65af778857f6b6e4d077701/Figure%203%20MXBAI%20Embedding%20Code%20Snippet.png)
 
 #### Cosine Distance and Cosine Similarity
@@ -460,6 +461,7 @@ for large-scale applications.
 retrieved and fed into the retrieval-augmented generation (RAG) system, enhancing
 response accuracy.
 
+<b>Figure 4: Cosine Similarity and Distance Code Snippet</b>
 ![Figure 4: Cosine Similarity and Distance Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/fc2209cd58d94f3ea65af778857f6b6e4d077701/Figure%204%20Cosine%20Similarity%20and%20Distance%20Code%20Snippet.png)
 
 #### Initiating the Retriever and Reranker
@@ -536,6 +538,7 @@ address the user's query.
 6. User Experience: Reranked results lead to more concise, precise, and contextually accurate
 answers, enhancing the overall user experience.
 
+<b>Figure 5: Re-ranking Code Snippet</b>
 ![Figure 5: Re-ranking Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/fc2209cd58d94f3ea65af778857f6b6e4d077701/Figure%205%20Re-ranking%20Code%20Snippet.png)
 
 #### Invoking the Retrieval Chain
@@ -576,4 +579,7 @@ By including this flexibility, the system ensures both robustness and adaptabili
 performance while avoiding the pitfalls of over-reliance on RAG when context is absent or
 irrelevant. Figure 6 shows the code implemented to initiate the retrieval chain.
 
+<b>Figure 6: Invoking the Retrieval Chain Code Snippet</b>
 ![Figure 6: Invoking the Retrieval Chain Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/fc2209cd58d94f3ea65af778857f6b6e4d077701/Figure%206%20Invoking%20the%20Retrieval%20Chain%20Code%20Snippet.png)
+
+
