@@ -586,4 +586,47 @@ irrelevant. Figure 6 shows the code implemented to initiate the retrieval chain.
 
 ![Figure 6: Invoking the Retrieval Chain Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/fc2209cd58d94f3ea65af778857f6b6e4d077701/Figure%206%20Invoking%20the%20Retrieval%20Chain%20Code%20Snippet.png)
 
+#### The Online Mode
+The Online Mode section defines a dictionary named prompts that categorizes pre-defined queries
+or questions for specific application domains. These prompts are designed to address domain
+specific queries and form a critical part of the interaction between the user and the system.
+
+##### Logic behind the Online Mode
+1. Domain Specific Queries: Online Mode organizes pre-written queries for different
+application domains like "Farm_Bill", "USSP_Light", "GAO", and "USSP". This allows
+users to quickly access relevant questions for their selected domain without manually
+creating queries.
+2. Streamlined Query Selection: By offering categorized prompts, the system enhances
+usability and efficiency, particularly for users unfamiliar with technical or domain specific
+language.
+3. Focus on Real World Application:
+The prompts cover a broad range of topics, including:
+I. Legislative comparisons (e.g., Farm Bills).
+II. Federal spending trends and appropriations (e.g., USSP).
+III. Evaluation of federal program effectiveness (e.g., GAO).
+
+These questions ensure that the system is aligned with real world analytical needs. Figure 7 shows
+online mode code implemented.
+
+<b>Figure 7: Online Mode Code Snippet</b>
+![Figure 7: Online Mode Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/08a59fcc77eb680c84bf4a4b4ce08db3b892a2bc/Figure%207%20Online%20Mode%20Code%20Snippet.png)
+
+#### Gradio Interface
+Gradio is an open-source Python library that enables the rapid development and deployment of
+machine learning (ML) models and applications through interactive web-based interfaces. It
+simplifies the user experience by creating highly customizable graphical interfaces for ML
+applications without the need for specialized front end skills. Its ease of integration, accessibility
+via a web browser, and flexibility make it an essential tool for showcasing and deploying ML
+powered solutions.
+
+#### Core Features of the Insight Engine
+
+##### Dynamic Dropdowns for Application and LLM Selection
+Why? Different applications (Farm_Bill, USSP_Light, and GAO) address unique datasets and
+analytical needs. The dropdown ensures that the interface dynamically adapts to these use cases.
+How They Help:
+
+• Simplifies navigation for users by isolating relevant tools and prompts.
+• Encourages modularity, reducing clutter and confusion.
+• Allows for targeted responses, enhancing the system’s focus and efficiency.
 
