@@ -4,6 +4,8 @@ Leveraging AI to Enhance Data Driven Insights for Government Contracts
 ## Capstone Engagement
 This project was undertaken, executed, and completed as part of the Master of Science in Business Analytics program at George Washington University. As a requirement of the degree, I was tasked with partnering with a real-world business (my client) to address an ongoing problem using advanced Artificial Intelligence techniques. The project spanned four months and was successfully delivered to the client in December 2024.
 
+![](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/c41327c9dfd913888d6b5b760d95fc446e8da624/Architecture-Diagram-GIF.gif)
+
 ## Executive Summary
 FI Consulting faces a significant need for a reliable system capable of accurately retrieving and
 synthesizing information from complex, unstructured documents to support high stakes decision
@@ -162,8 +164,6 @@ Consulting.
 ## Architecture Diagram
 
 <a href="https://lucid.app/lucidchart/02be26cc-ce83-46de-85b4-15e97733f903/view?page=0_0#" target="_blank">RAGov: Contract Analysis</a>
-
-![](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/c41327c9dfd913888d6b5b760d95fc446e8da624/Architecture-Diagram-GIF.gif)
 
 ## Methodology
 This section outlines the comprehensive approach taken to develop a proof-of-concept system
