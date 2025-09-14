@@ -630,3 +630,232 @@ How They Help:
 • Encourages modularity, reducing clutter and confusion.
 • Allows for targeted responses, enhancing the system’s focus and efficiency.
 
+##### Preset Prompts for Domain-Specific Questions
+Why? Legislative, financial, and programmatic queries often require a deep understanding of
+specific contexts, which can be challenging for users to phrase correctly.
+
+How They Help:
+• Provides users with curated, domain specific questions, saving time and ensuring precision.
+• Helps non-experts easily access the power of the system without needing to frame
+technically precise queries.
+
+##### LLM Selection and Adaptability
+Why? Different tasks demand varying levels of computational resources and model complexity.
+For example, broader questions may benefit from llama3.1, while highly contextual queries require
+the advanced capabilities of llama3.2.
+
+How They Help:
+• Ensures that tasks are handled with the most suitable LLM, balancing speed, cost, and
+accuracy.
+• Offers flexibility for users to customize their experience based on specific needs or
+resource availability.
+
+##### Reranking Options for Enhanced Document Retrieval
+Why? In complex queries, not all retrieved documents are equally relevant. Reranking prioritizes
+the most contextually significant data.
+
+How They Help:
+• Improves the quality of responses by feeding only the most relevant documents into the
+retrieval augmented generation (RAG) process.
+• Saves time and computational resources by narrowing down large datasets.
+
+##### Interactive Text Input with Time-Based Greeting
+Why? A friendly, interactive interface fosters user engagement and makes the system
+approachable.
+
+How They Help:
+• Personalizes the user experience, making it more intuitive and welcoming.
+• Reduces friction in starting interactions, particularly for new or non-technical users.
+
+##### Chart It Up Functionality for Visualization
+Why? Many insights, especially those involving numerical or categorical data, are best understood
+visually.
+
+How They Help:
+• Translates raw data into actionable insights by generating easy to interpret charts.
+• Provides structured outputs (e.g., axis labels, titles) to ensure clarity and consistency.
+• Enables users to download charts, allowing for external use in reports or presentations.
+
+##### Customizable Response Outputs
+Why? Users may have different preferences for how insights are presented. For instance, some
+may prefer RAG augmented responses, while others may want non contextual (unRAG) answers.
+
+How They Help:
+• Ensures flexibility in the type of response provided, accommodating various use cases.
+• Allows users to toggle between formats based on the availability of context or the
+specificity of their query.
+
+##### Dynamic Logo and Text Updates
+Why? Contextual visual elements enhance usability by clearly indicating which application is
+active. Figure 8 shows the code implemented for the Gradio Interface.
+How They Help:
+• Reduces cognitive load for users by aligning interface elements with their selected
+application.
+• Projects professionalism and polish, improving overall user experience.
+
+<b>Figure 8: Gradio Interface Code Snippet</b>
+![Figure 8: Gradio Interface Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/1d8e1692fa59272553d614de4bada529b8658dfa/Figure%208%20Gradio%20Interface%20Code%20Snippet.png)
+
+#### Network Analysis
+Network analysis is a powerful method for exploring, modeling, and visualizing relationships
+between interconnected entities within a dataset. It uses a graph-based structure, where nodes
+represent entities such as keywords, documents, or events, and edges signify the relationships or
+interactions between them. The objective of network analysis is to uncover patterns, structures,
+and key connections that may not be immediately apparent in raw data. For this project, Gephi
+software was utilized to develop the network analysis diagram, and a modularity calculation was
+conducted to group related nodes into clusters or classes. By reducing 218 separate nodes into
+seven modular clusters, the visualization became more coherent and accessible, allowing for
+clearer representation and understanding of key patterns and relationships in the data. This
+approach highlighted meaningful connections while simplifying the complexity of the dataset. We
+first convert a csv to a gdf file which is suitable for use with the Gephi software (Hall, 2017).
+
+Why the GEPHI software?
+Gephi is a widely used tool for network visualization and analysis because of its flexibility,
+scalability, and ability to produce visually intuitive graphs. It provides:
+1. Interactive Exploration: Users can interact with the graph, zooming in on specific clusters
+or nodes to investigate further.
+2. Layout Algorithms: Gephi supports algorithms like ForceAtlas2 that spatially organize
+nodes based on their connections, making clusters and relationships more apparent.
+3. Metrics and Analysis Tools: Built-in metrics, such as degree centrality or modularity, allow
+deeper analysis of node influence and community structures.
+
+Why is the network Analysis diagram Important:
+1. Unveiling Key Connections: The network diagram highlights critical relationships between
+key terms. These connections reveal which entities or concepts are central in a dataset,
+offering valuable insights into the focal points of the data.
+2. Identifying Patterns and Clusters: The diagram shows clusters of interconnected nodes,
+which indicate areas where certain terms or topics are frequently associated. This is
+particularly beneficial for identifying patterns in policy focus areas or funding allocations.
+3. Data Prioritization: By understanding the most interconnected nodes or the strongest
+relationships, the analysis can prioritize specific data points for retrieval-augmented
+4. generation (RAG) purposes. For example, frequently occurring terms may signal critical
+areas for further exploration and context generation.
+Supporting Retrieval-Augmented Generation (RAG): Network analysis directly supports
+the RAG framework by enabling better context retrieval. Nodes and edges in the diagram
+5. help determine which documents or chunks of data are most relevant to a given query,
+enhancing the quality of responses generated by the system.
+Enhanced Visual Communication: The visualization itself provides a clear and intuitive
+way to communicate the structure and complexity of the data. This helps stakeholders
+quickly grasp the main themes and interactions without needing to sift through raw text
+data.
+6. Evaluating Dataset Completeness: The network can expose gaps or weaknesses in the
+dataset. For instance, sparsely connected nodes or areas with fewer interactions may indicate underrepresented topics or regions, highlighting where further data collection is
+needed.
+7. Focus on Interdisciplinary Topics: The connections between seemingly unrelated terms
+suggest interdisciplinary impacts. This can guide decision-makers in crafting policies that
+address cross sectoral needs.
+
+#### Data Sources
+1. Farm Bill Data
+2. USA Spending Data (USA Spending, 2024)
+3. GAO Data (U.S. Government Accountability Office, 2024)
+
+Understanding the Farm Bill Data, USA Spending Data, and GAO Data is valuable to individuals
+such as policymakers, analysts, and researchers who require in depth insights into legislative
+impacts, funding allocations, and program effectiveness. These datasets were specifically chosen
+for the RAG database because of their structured nature, high credibility, and rich, contextual
+information. The Farm Bill Data highlights legislative frameworks and fiscal policies in
+agriculture, providing a lens into food security and rural development. USA Spending Data offers
+a comprehensive view of federal financial distributions, making it ideal for analyzing economic
+priorities and impacts. GAO Data, with its detailed program evaluations and accountability reports,
+serves as a critical resource for assessing the effectiveness of federal programs. Combined, these
+data types are highly complementary for a RAG system, as they allow for robust, evidence-based
+contextual augmentation of queries, fostering informed decision making. This approach ensures
+the database is not only tailored to specific use cases but is also capable of addressing diverse and
+nuanced questions with accuracy and reliability.
+
+### Risk Considerations
+Implementing a Retrieval Augmented Generation (RAG) system with large language models
+(LLMs) for legislative and policy analysis offers significant benefits, but also presents a unique
+set of risks that must be carefully managed to ensure accuracy, fairness, and trustworthiness. Below
+are the key risks considered within the context of this study.
+
+#### Response Accuracy Risks
+The goal of this RAG system is to provide accurate, contextually grounded responses. However,
+LLMs are known to produce “hallucinations” responses that seem accurate but are factually
+incorrect. Although retrieval grounding reduces this risk, it does not eliminate it, especially if the
+retrieved data is outdated or biased. Since legislative analysis requires precision, outdated or
+skewed data could mislead users, potentially affecting critical decisions. To mitigate this, regular
+database updates and robust validation checks are essential to maintain response accuracy and
+relevance (Lewis et al., 2020).
+
+#### Bias and Ethical Implications
+In policy and government applications, fairness and neutrality are paramount. LLMs trained on
+large datasets may inadvertently reinforce biases present in the data, leading to skewed or unfair
+responses. In the context of legislative analysis, such biases could affect interpretations of policy
+language or funding allocations, with possible downstream effects on decision-making. To address
+this, ongoing bias monitoring, transparent audits, and the inclusion of diverse data sources are
+necessary to ensure that outputs remain balanced and ethically sound.
+
+#### Privacy and Security
+Handling legislative data, particularly in government or consulting contexts, introduces privacy
+and security concerns. The RAG system may process sensitive information, making it vulnerable
+to breaches and unauthorized access. Ensuring secure data storage, encryption, and adherence to
+differential privacy principles will minimize the risk of data exposure. Regular security audits are
+also critical to preserving data integrity and maintaining trust with stakeholders who rely on the
+system’s outputs for sensitive decision-making (Voigt & Von dem Bussche, 2017).
+
+#### User Over-Reliance and Automation Bias
+The system’s high-quality responses might lead users to over-rely on AI-generated insights
+without adequate scrutiny, especially if users are unaware of potential inaccuracies in complex
+legal or policy content. This over reliance could lead to decisions based on incomplete or
+misunderstood information, a risk that is amplified in high-stakes fields like government
+procurement or finance. To reduce this risk, user education on the system’s limitations, response
+disclaimers, and transparency about potential errors should be implemented to encourage critical
+evaluation of AI outputs.
+
+#### Environmental Impact
+The high computational demands of RAG and LLM systems contribute to a significant
+environmental footprint, an important consideration for organizations focused on sustainable
+practices. The energy consumption associated with large scale legislative and policy analysis tasks
+can be substantial. To reduce environmental impact, optimizing model efficiency, using energy
+efficient infrastructure, and considering renewable energy sources where possible are
+recommended (Strubell et al., 2019).
+
+#### Adversarial Attacks
+In open-access or high stakes environments, LLMs are susceptible to adversarial inputs, where
+attackers may attempt to manipulate the model by submitting specially crafted queries that elicit
+biased or misleading responses. In the context of policy analysis, adversarial manipulation could
+distort interpretations of legislation or policy changes, potentially affecting real world decisions.
+Implementing input sanitization, adversarial training, and monitoring for abnormal patterns will
+help safeguard the system from such attacks (Wallace et al., 2020).
+
+#### Intellectual Property (IP) Risks
+LLMs trained on broad datasets risk inadvertently generating content that resembles copyrighted
+material, posing potential IP issues. For this legislative analysis project, the risk is particularly
+relevant if proprietary or licensed content is used in training or retrieval, as it may lead to IP
+violations. Implementing content originality checks and offering opt-out mechanisms for data
+providers are essential to mitigate these risks and respect intellectual property laws (McMahan et
+al., 2020).
+
+#### Employment and Skill Implications
+As RAG systems become more capable in domains like policy analysis, there is a potential risk of
+job displacement in roles traditionally responsible for manual data processing and analysis.
+However, the project also creates demand for roles focused on AI oversight, model interpretation,
+and ethical governance. Offering reskilling programs will be crucial to help employees transition
+into AI management roles, ensuring they can contribute meaningfully to an AI-augmented
+workforce (Susskind, 2020).
+
+#### Legal and Regulatory Compliance
+Given the evolving regulatory landscape around AI, this system must comply with strict data
+privacy, transparency, and accountability standards. In policy and legislative applications, non-
+compliance with frameworks like GDPR, HIPAA, or the EU’s proposed AI Act could result in
+significant legal repercussions. Regular audits, transparent reporting, and clear documentation of
+data sources and processing methods are necessary to meet these legal requirements and protect
+user rights (Goodman & Flaxman, 2017).
+
+#### Ethical and Societal Impact
+The deployment of AI in government and policy contexts has broader ethical and societal
+implications. Poorly governed RAG systems can inadvertently spread misinformation or erode
+public trust in policy analysis and legislative interpretation. This is particularly critical in sectors
+where transparency and public trust are essential. Implementing ethical oversight, involving
+diverse stakeholders in governance, and offering explanations for AI generated responses will help
+manage these broader societal risks responsibly, ensuring the system operates as a reliable and
+trusted resource in legislative and policy settings (Whittaker et al., 2018).
+
+These risk considerations highlight the critical areas for vigilance and the safeguards necessary for
+responsible RAG system deployment in legislative and policy analysis. Addressing these risks
+ensures that the system remains accurate, secure, and ethically sound, supporting effective decision
+making in high stakes applications.
+
+
