@@ -35,7 +35,7 @@ The directory is used to download unstructured text from online sources, such as
 endpoints and PDFs hosted on various web applications. If additional sources are used
 in the future, this same directory can be utilized to save those resources.
 
-## Embedding_Downloads_CSV
+## Embedding Downloads CSV
 The application provides the capability to download text embeddings once they are
 created or updated in the vector database. This directory is designated for saving these
 embeddings for future reference or troubleshooting purposes.
@@ -47,7 +47,7 @@ reference, and demonstrations. This directory is designated for saving such imag
 Please note that there is no automated code to capture or save Gephi images in this
 directory; this task must be performed manually.
 
-## Gephi_Imports_GDF
+## Gephi Imports GDF
 A Python program has been implemented to process the text embeddings and convert
 them into a .gdf file, which is essential for conducting network analysis in Gephi. This
 designated directory is used to store the .gdf files produced by the Python program.
@@ -71,14 +71,14 @@ notebooks were developed to fetch raw text from external sources, one to build t
 logic of the application, and the last one to process embeddings and create .gdf files. A
 brief description of each notebook will be provided later in this document.
 
-## Transposed_Embeddings_CSV
+## Transposed Embeddings CSV
 Before creating the .gdf file, an intermediate task involves building a data frame with
 document chunks as column headers and listing the embeddings vertically beneath
 them. The program that generates the .gdf file requires a .csv file constructed from this
 data frame. These .csv files are eventually downloaded and stored in the designated
 directory.
 
-## Vector_DB_Embeddings
+## Vector DB Embeddings
 The core program for this application is designed to implement persistence when
 embeddings are created and written to the vector database. This persistent logic
 enhances efficiency by enabling direct retrieval of embeddings whenever needed to
@@ -115,7 +115,7 @@ for creating a network analysis document using Gephi software. More details -
 ### Operation Parameters
 ● app_prefix = set it to one of the following valid values— USSP , USSP_Light, GAO, Farm_Bill—as per your requirement.
 
-● Transposed_dir = to read more about this directory go this section. Review and ensure you are using the correct directory.
+● Transposed_dir = to read more about this directory go to the section - [Transposed Embeddings CSV](##transposed-embeddings-csv). Review and ensure you are using the correct directory.
 
-● Gephi_import_dir = to read more about this directory go this section. Review and ensure you are using the correct directory.
+● Gephi_import_dir = to read more about this directory go to the section - [Gephi Imports GDF](##gephi-imports-gdf). Review and ensure you are using the correct directory.
 
