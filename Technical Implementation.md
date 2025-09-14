@@ -481,7 +481,7 @@ could not be produced.
 The Chart It Up feature is designed to generate both a chart and the LLM response,
 with or without reranking, according to the user’s preference.
 
-<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/ChartItUp.png" width="800" />
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/ChartItUp.png" width="1000" />
 
 ### UnRag
 Comparing the RAG-enhanced response with the standard (or un-augmented) response
@@ -491,7 +491,7 @@ implemented a functionality that can be toggled on or off through the user inter
 allowing users to easily compare responses. This feature is available as a switch, implemented on both the front end and the backend, to meet these requirements
 effectively.
 
-<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/UnRag%20Response.png" width="800" />
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/UnRag%20Response.png" width="1200" />
 
 ### Wrap
 The Wrap button is a convenient feature that allows users to hide the UnRag Response
