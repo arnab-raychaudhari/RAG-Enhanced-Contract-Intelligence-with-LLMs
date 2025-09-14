@@ -291,4 +291,6 @@ modularity, the approach allows seamless integration with other components of th
 ensuring efficient processing of large and varied datasets. Figure 1 shows the code used in loading
 the data .
 
+<b>Figure 1: Data Loading Code Snippet</b>
 
+![Figure 1: Data Loading Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d0e8a56a049924163d6af10b504a3ede104f4ac2/Figure%201%20Data%20Loading%20Code%20Snippet.png)
