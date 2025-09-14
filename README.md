@@ -1,7 +1,7 @@
 # RAGov-contract-analysis
 Leveraging AI to Enhance Data Driven Insights for Government Contracts
 
-## Capstone Engagement
+## Business Practicum Engagement
 This project was undertaken, executed, and completed as part of the Master of Science in Business Analytics program at George Washington University. As a requirement of the degree, I was tasked with partnering with a real-world business (my client) to address an ongoing problem using advanced Artificial Intelligence techniques. The project spanned four months and was successfully delivered to the client in December 2024.
 
 ![](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/c41327c9dfd913888d6b5b760d95fc446e8da624/Architecture-Diagram-GIF.gif)
