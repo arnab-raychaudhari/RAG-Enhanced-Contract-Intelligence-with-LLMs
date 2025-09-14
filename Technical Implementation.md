@@ -423,4 +423,125 @@ accordingly, and invokes the retrieval chain with the user prompt as input. The 
 RAG (Retriever-Augmented Generation) response is printed, showing both the user
 prompt and the model’s context-rich answer.
 
+## Online Mode - Gradio User Interface
+T o launch the Gradio UI, the operations team needs to execute the Jupyter notebook
+titled Notebook_RAG_LLM_application.ipynb and wait for it to complete. Upon
+execution, an HTTP URL will be generated, which can be used to access the online
+interface.
 
+### Application Domain
+The end user can choose from four available application domains of interest. The
+program’s modular design ensures flexibility, allowing operations to seamlessly add new
+domains as the product evolves in the future.
+
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/0d7e568aff02d7c82d4f7b85732bd41eafe4f99e/Application%20Domain.png" width="400" />
+
+### LLM Model
+At the time of implementation, two large language models—Llama3.1 and
+Llama3.2—are available for end users to choose from. Additional models can be
+incorporated as needed in the future.
+
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/803345e85a978cf223abf1d77689606a32147db3/LLM%20Model%20Selection.png" width="400" />
+
+### Prompt Text Box
+A text box is provided to display preset prompts, allowing users to edit these prompts or
+create new ones from scratch.
+
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/803345e85a978cf223abf1d77689606a32147db3/Prompt%20Text%20Box.png" width="400" />
+
+### ReRanking Toggle
+Online users can enable the ReRanking feature as needed. Before clicking the RagIt,
+Chart it Up, or UnRag button, they must select the application domain, choose the LLM
+model, and enter the text for the prompts they require a response to.
+
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/ReRanking%20Toggle.png" width="400" />
+
+The LLM response may vary significantly depending on whether reranking is applied.
+See the following images for reference.
+
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/ReRanked%20Response.png" width="400" />
+
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/Response%20without%20ReRanking.png" width="400" />
+
+### RagIt
+Upon clicking this button, the application generates a contextually aware RAG
+response, which is displayed in either the RAG Augmented LLM Response with
+ReRanking textbox (read only) or the RAG Augmented LLM Response textbox (read
+only), depending on whether reranking is applied.
+
+### Chart it Up
+Charting is often beneficial alongside textual output to provide a well-rounded
+understanding. Prompt emphasis and parsing logic are implemented to prompt the LLM
+to generate structured data that can be parsed and plotted on a two-dimensional chart.
+When the LLM produces such data and the parsing logic successfully extracts it, a chart
+will be displayed in the Generated Chart section, with an option to download the chart
+image. If chart generation fails, users will see an error message indicating that a chart
+could not be produced.
+
+The Chart It Up feature is designed to generate both a chart and the LLM response,
+with or without reranking, according to the user’s preference.
+
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/ChartItUp.png" width="400" />
+
+### UnRag
+Comparing the RAG-enhanced response with the standard (or un-augmented) response
+of the LLM model can help stakeholders appreciate the added value provided by the
+RAG LLM application developed by the GWU project team. T o support this, the team
+implemented a functionality that can be toggled on or off through the user interface,
+allowing users to easily compare responses. This feature is available as a switch, implemented on both the front end and the backend, to meet these requirements
+effectively.
+
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/UnRag%20Response.png" width="400" />
+
+### Wrap
+The Wrap button is a convenient feature that allows users to hide the UnRag Response
+text area if they are not interested in viewing the unragged response.
+
+### Context specific documents retrieved from Vector DB
+The read-only text area displays the semantically similar document chunks retrieved
+from the vector database in response to the user prompt, which were subsequently
+used to prompt the LLM.
+
+### Operation Parameters
+1. If you change the location of the application codebook
+(Notebook-LLM-RAG-Contracts.ipynb) or modify the directory structure of the
+application repository (Project_LLM_and_RAG_2024_GWU), you must update
+the corresponding directory paths accordingly.
+● before_chunk_dir =
+"/home/GWU/Project_LLM_and_RAG_2024_GWU/Before-Chunking/"
+● embed_download_dir =
+"/home/GWU/Project_LLM_and_RAG_2024_GWU/Embedding_Downloads_
+CSV/"
+● logos_dir = "/home/GWU/Project_LLM_and_RAG_2024_GWU/Logos/"
+● transposed_embed_dir =
+"/home/GWU/Project_LLM_and_RAG_2024_GWU/Transposed_Embeddings
+_CSV/"
+● vector_dir =
+"/home/GWU/Project_LLM_and_RAG_2024_GWU/Vector_DB_Embeddings/"
+
+2. Before launching the online application, you need to run the
+Notebook-LLM-RAG-Contracts.ipynb in VSCode. Before you press the Run All
+button on you console, you may consider changing the following parameters as
+per your requirement.
+
+● chosen_model = either set it to llama3.1 or llama3.2
+
+● application = set it to one of the following valid values— USSP , USSP_Light,
+GAO, Farm_Bill
+
+● raw_doc_directory = at the time of writing this document, the valid values are
+listed in code 6 of the notebook. If you are adding new text files, you should
+set the correct value to the raw_doc_directory.
+
+● Overwrite_doc_chunks = to read the purpose of this functionality go to the section [Overwrite Document Chunk Defaults](###overwrite-document-chunk-defaults). The valid flag values are yes and no. Also review the setting in
+code cell 33.
+
+● Need_unrag_Response = to read the purpose of this functionality go to the section [UnRag](###unrag). The valid flag values are yes and no.
+
+● Need_reranking = to read the purpose of this functionality go to the section [ReRanking](###reranking). The valid flag values are yes and no.
+
+● User_prompts = a set of preset user prompts were implemented while
+developing this application. You may add new ones in the future, but before
+you launch the application, you should select one of these prompts. The
+prompts for the batch mode are listed in code cell 10-14 and for the online
+mode you should review the list in code cell 38.
