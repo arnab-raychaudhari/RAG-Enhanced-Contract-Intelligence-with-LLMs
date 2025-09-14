@@ -858,4 +858,233 @@ responsible RAG system deployment in legislative and policy analysis. Addressing
 ensures that the system remains accurate, secure, and ethically sound, supporting effective decision
 making in high stakes applications.
 
+### Evaluation and Testing
+The final phase involved testing the RAG system’s effectiveness in retrieving insights based of the
+user queries. Below is a step-by-step demonstration of the functionality and outputs of a RAG
+based (Retrieval Augmented Generation) system. The example showcases a query focused on
+transportation appropriations for specific programs. The results reflect how the system processes
+this query under different configurations: with and without retrieval ranking (RAG vs. UnRAG)
+and the generation of a corresponding chart to visualize the data. These steps help highlight the
+comparative advantages of RAG in enhancing both contextual relevance and output clarity.
 
+#### Results
+
+<b>Figure 9: Input User Query</b>
+![Figure 9: Input User Query](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d28cb44398065cf808c6d40939a302c8a5522144/Figure%209%20Input%20User%20Query.png)
+
+Figure 9 shows the system interface allowing the user to input a query about transportation
+appropriations (e.g., "What are the total appropriations for transportation programs like Tribal
+Transportation, Federal Lands Transportation, and Federal Lands Access from 2022 to 2026?"). The interface also lets the user select whether to enable retrieval ranking (RAG) or generate a
+chart.
+
+<b>Figure 10: Configuration Screenshot</b>
+![Figure 10: Configuration Screenshot](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d28cb44398065cf808c6d40939a302c8a5522144/Figure%2010%20Configuration%20Screenshot.png)
+
+Figure 10 shows the user opted for both retrievals ranking (RAG) and the "Chart it up" feature.
+These choices ensure that the system retrieves ranked, contextually relevant data from the vector
+database and visualizes the numerical output for better interpretation.
+
+<b>Figure 11: Rag Response Screenshot</b>
+![Figure 11: Rag Response Screenshot](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d28cb44398065cf808c6d40939a302c8a5522144/Figure%2011%20Rag%20Response%20Screenshot.png)
+
+Figure 11 shows the query output when the RAG database is utilized (Rag Response). The response
+integrates data retrieved from the vector database and presents it in a structured, precise format.
+
+• Data Retrieval and Contextual Accuracy: The response provides detailed appropriations
+for the programs mentioned in the query (e.g., specific annual figures for Tribal
+Transportation, Federal Lands Transportation, and Federal Lands Access from 2022 to
+2026). This is possible because the RAG approach retrieves embeddings from the database
+and augments the LLM response with relevant factual data.
+
+• Structured Format: The output includes clear "X-values" and "Y -values" for categorical
+and numerical data, respectively. It also specifies legends and a title for the chart,
+facilitating easy interpretation.
+
+• Contextual Relevance: By using retrieval ranking, the system identifies the most relevant
+context and ensures the response aligns precisely with the user’s query.
+
+<b>Figure 12: UnRag Response Screenshot</b>
+![Figure 12: UnRag Response Screenshot](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d28cb44398065cf808c6d40939a302c8a5522144/Figure%2012%20UnRag%20Response%20Screenshot.png)
+
+Figure 12 shows the UnRag response where the database is not utilized. The UnRAG response
+contrasts sharply with the RAG output. Without contextual retrieval, the response is generic,
+offering no numerical or program specific insights. Instead, it recommends external resources like
+the U.S. Department of Transportation website. This underscores the limitation of relying solely
+on an LLM without augmentation from a retrieval mechanism. Key differences include:
+
+• Lack of Context: The UnRAG response does not provide any actionable data directly
+relevant to the query.
+• User Effort Required: The user must seek additional information from external sources,
+increasing time and effort.
+
+<b>Figure 13: Bar Graph for the Data Screenshot</b>
+![Figure 13: Bar Graph for the Data Screenshot](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d28cb44398065cf808c6d40939a302c8a5522144/Figure%2013%20Bar%20Graph%20for%20the%20Data%20Screenshot.png)
+
+Figure 13 shows the bar graph obtaining by plotting values parsed from the query output. The chart
+generated from the RAG response visually represents the transportation appropriations data:
+
+• Clarity and Comparability: It allows for a straightforward comparison of funding
+allocations across different programs.
+• Enhanced Understanding: Visualizing data trends helps users identify patterns (e.g., higher
+funding for Federal Lands Access compared to Tribal Transportation).
+• Ease of Decision-Making: Decision-makers can use these insights to prioritize programs
+or communicate findings effectively.
+
+<b>Figure 14: Network Analysis (USA Spending Light) Screenshot</b>
+![Figure 14: Network Analysis (USA Spending Light) Screenshot](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d28cb44398065cf808c6d40939a302c8a5522144/Figure%2014%20Network%20Analysis%20(USA%20Spending%20Light)%20Screenshot.png)
+
+Figure 14 shows the network analysis diagram generated for the Usa Spending light data. The
+network analysis diagram plays a critical role in visualizing and interpreting complex relationships
+between various entities within the USA Spending light dataset particularly the infrastructure
+investment pdf. By mapping connections, such as keywords, entities, and themes, the network
+highlights significant clusters, frequent associations, and central nodes in the data.
+The results emphasize the significant benefits of employing a RAG system, particularly for data
+intensive queries requiring precision and contextual relevance. The integration of retrieval ranking
+ensures the output is not only accurate but also actionable, while chart visualizations enhance the
+interpretability of complex data. In contrast, the UnRAG response illustrates the challenges of
+relying solely on a language model without contextual augmentation, reinforcing the necessity of
+RAG for advanced analytical and decision-making tasks.
+
+The network analysis diagrams further strengthen the analytical capabilities of this system. These
+diagrams offer an additional layer of insight by mapping the relationships between key entities
+within the datasets. They reveal hidden patterns, connections, and thematic overlaps, which may
+not be immediately apparent through text-based analysis alone. This visual representation of
+interconnected data highlights critical focus areas and facilitates more nuanced understanding and
+decision-making.
+
+In conclusion, the integration of RAG, charting, and network analysis establishes a robust
+framework for addressing complex queries with clarity and depth. This system not only improves
+contextual relevance and response accuracy but also enhances the interpretability of results
+through visual and relational analyses. These advancements underscore the system’s utility for
+analysts, policymakers, and stakeholders seeking data-driven insights for impactful decisions.
+
+### Conclusions and Potential Next Steps
+This project demonstrates the integration of Retrieval Augmented Generation (RAG) with
+advanced data sources such as the Farm Bill, USA Spending, and GAO datasets to address
+complex analytical and policy related queries. By leveraging state-of-the-art tools such as
+ChromaDB for vectorized document storage, Hugging Face Cross-Encoders for reranking, and
+Llama 3.1 and 3.2 models for natural language generation, the application provides a robust system
+for generating accurate, context rich, and interpretable responses. The use of network analysis and
+visualization tools further strengthens interpretability by exposing hidden connections and
+relationships within the datasets. The Gradio interface ensures usability by allowing researchers,
+policymakers, and analysts to interact with the system intuitively.
+
+The RAG approach produced responses that were significantly more contextual and detailed
+compared to unRAG responses. By directly integrating the most relevant information retrieved
+from the database, RAG responses were tailored to specific queries, providing deeper insights and
+more accurate answers. In contrast, unRAG responses lacked the grounding provided by the
+retrieved documents and, therefore, often fell short in specificity and context.
+
+#### Potential Next Steps
+1. Graph Based RAG (Graph RAG): Developing a knowledge graph from the datasets to
+2. integrate structured retrieval with graph algorithms. This approach would improve
+contextual understanding by visualizing entity relationships and enabling dynamic context
+retrieval for complex queries.
+Incorporation of Real Time Data: Expanding the datasets to include real time updates, such
+as government funding changes or policy amendments, would keep the system dynamic
+and up to date.
+3. Integration with Advanced Visualization: Building on the network analysis, future
+iterations could include interactive graph exploration, enabling users to trace relationships
+4. and drill down into specific aspects.
+Expanding Domain Coverage: Extending the system to cover additional datasets, such as
+climate impact reports or economic forecasts, could broaden the scope and relevance of its
+use cases.
+5. User Feedback Loop: Introducing a feedback mechanism for users to rate responses could
+help iteratively improve retrieval and generation accuracy.
+6. Caching: By temporarily storing frequently accessed data such as query embeddings,
+processed document chunks, or ranked results caching minimizes the need for repeated
+calculations. Implementing systems like Redis or Memcached can further optimize
+performance by enabling fast, concurrent access to cached data, especially useful for high
+traffic or repetitive queries. This approach would complement the RAG pipeline by
+maintaining context across sessions, ensuring smoother interactions and quicker responses
+while also conserving computational resources.
+
+### References
+Abid, A., Abdalla, A., Abid, D., & Khan, F. (2019). Gradio: Creating Interactive Web Interfaces.
+Retrieved from: https://www.gradio.app/
+
+Bird, S., Klein, E., & Loper, E. (2023). Natural Language Toolkit (NLTK).
+Retrieved from https://www.nltk.org/
+
+Brown, T. B., et al. (2020). Language Models are Few-Shot Learners. NeurIPS 2020.
+Retrieved from: https://arxiv.org/abs/2005.14165
+
+Chroma Core Team. (2023). Chroma: The Modern Open-Source Embedding Database.
+Retrieved from https://github.com/chroma-core/chroma
+
+Chroma. (2023). ChromaDB: The AI-native Vector Database.
+Retrieved from: https://www.trychroma.com/
+
+Goodman, B., & Flaxman, S. (2017). European Union Regulations on Algorithmic Decision-
+Making and a “Right to Explanation”. AI Magazine.
+Retrieved from https://arxiv.org/abs/1606.08813.
+
+Hall, J. P. (2017). Correlation Graph with csv2gdf.ipynb.
+Retrieved from https://github.com/jphall663/corr_graph/blob/master/csv2gdf.ipynb.
+
+Hugging Face. (2023). Cross-Encoder Models.
+Retrieved from https://huggingface.co/cross-encoder
+
+Hunter, J. D. et al. (2023). Matplotlib: Visualization with Python.
+Retrieved from https://matplotlib.org/
+
+Ji, Z., et al. (2023). Survey of Hallucination in Natural Language Generation. ACM Computing
+Surveys.
+Retrieved from: https://arxiv.org/abs/2301.12017
+
+LangChain. (2023). Build Applications with LLMs and External Knowledge Sources.
+Retrieved from: https://www.langchain.com/
+
+Lewis, P., et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.
+NeurIPS 2020.
+Retrieved from: https://arxiv.org/abs/2005.11401
+
+McMahan, B., Moore, E., Ramage, D., et al. (2020). Federated Learning of Deep Networks:
+Balancing Privacy and Accuracy. Proceedings of the International Conference on Machine
+Learning.
+Retrieved from https://arxiv.org/abs/1602.05629.
+
+NumPy Developers. (2023). NumPy: The fundamental package for scientific computing with
+Python.
+Retrieved from https://numpy.org/
+
+OpenAI. (2023). Tiktoken: Tokenizer for OpenAI models.
+Retrieved from https://github.com/openai/tiktoken
+
+Paulo C. S. B. (2023). Running Llama 3.1 Locally with Ollama: A Step-by-Step Guide.
+Retrieved from: https://medium.com/@paulocsb/running-llama-3-1-locally-with-ollama-a-step-
+by-step-guide-44c2bb6c1294
+
+Python Software Foundation. (2023). Concurrent Futures — Asynchronous Programming.
+Retrieved from https://docs.python.org/3/library/concurrent.futures.html
+
+Reimers, N., & Gurevych, I. (2023). Sentence Transformers: Multilingual Sentence, Paragraph,
+and Image Embeddings.
+Retrieved from https://www.sbert.net/
+
+Strubell, E., Ganesh, A., & McCallum, A. (2019). Energy and Policy Considerations for Deep
+Learning in NLP. Proceedings of the 57th Annual Meeting of the Association for Computational
+Linguistics.
+Retrieved from https://arxiv.org/abs/1906.02243.
+
+Susskind, R. (2020). The Future of the Professions: How Technology Will Transform the Work
+of Human Experts. Oxford University Press.
+USA Spending. (2024). API v2 Agency Data for Fiscal Year 2024.
+Retrieved from https://api.usaspending.gov/api/v2/agency/012/?fiscal_year=2024.
+
+U.S. Government Accountability Office. (2024). Federal Grants: Improved Oversight and Better Internal Controls
+Could Help Ensure Effective Use of Funds (Report No. GAO-24-106732). Retrieved from
+https://www.gao.gov/products/gao-24-106732.
+
+Van Rossum, G. (1995). Python Programming Language.
+Retrieved from: https://www.python.org/
+
+Voigt, P., & Von dem Bussche, A. (2017). The EU General Data Protection Regulation (GDPR):
+A Practical Guide. Springer International Publishing.
+
+Wallace, E., Feng, S., Kandpal, N., et al. (2020). Universal Adversarial Triggers for NLP.
+Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.
+Retrieved from https://arxiv.org/abs/1908.07125.
+
+Whittaker, M., Crawford, K., Dobbe, R., et al. (2018). AI Now Report 2018. AI Now Institute.
+Retrieved from https://ainowinstitute.org/AI_Now_2018_Report.pdf.
