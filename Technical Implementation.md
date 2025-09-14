@@ -434,34 +434,34 @@ The end user can choose from four available application domains of interest. The
 program’s modular design ensures flexibility, allowing operations to seamlessly add new
 domains as the product evolves in the future.
 
-<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/0d7e568aff02d7c82d4f7b85732bd41eafe4f99e/Application%20Domain.png" width="400" />
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/0d7e568aff02d7c82d4f7b85732bd41eafe4f99e/Application%20Domain.png" width="800" />
 
 ### LLM Model
 At the time of implementation, two large language models—Llama3.1 and
 Llama3.2—are available for end users to choose from. Additional models can be
 incorporated as needed in the future.
 
-<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/803345e85a978cf223abf1d77689606a32147db3/LLM%20Model%20Selection.png" width="400" />
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/803345e85a978cf223abf1d77689606a32147db3/LLM%20Model%20Selection.png" width="800" />
 
 ### Prompt Text Box
 A text box is provided to display preset prompts, allowing users to edit these prompts or
 create new ones from scratch.
 
-<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/803345e85a978cf223abf1d77689606a32147db3/Prompt%20Text%20Box.png" width="400" />
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/803345e85a978cf223abf1d77689606a32147db3/Prompt%20Text%20Box.png" width="800" />
 
 ### ReRanking Toggle
 Online users can enable the ReRanking feature as needed. Before clicking the RagIt,
 Chart it Up, or UnRag button, they must select the application domain, choose the LLM
 model, and enter the text for the prompts they require a response to.
 
-<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/ReRanking%20Toggle.png" width="400" />
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/ReRanking%20Toggle.png" width="800" />
 
 The LLM response may vary significantly depending on whether reranking is applied.
 See the following images for reference.
 
-<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/ReRanked%20Response.png" width="400" />
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/ReRanked%20Response.png" width="800" />
 
-<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/Response%20without%20ReRanking.png" width="400" />
+<img src="https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/4e5bc5e94ac590413b16384da19f4e5d8e70bfc6/Response%20without%20ReRanking.png" width="800" />
 
 ### RagIt
 Upon clicking this button, the application generates a contextually aware RAG
@@ -507,19 +507,24 @@ used to prompt the LLM.
 (Notebook-LLM-RAG-Contracts.ipynb) or modify the directory structure of the
 application repository (Project_LLM_and_RAG_2024_GWU), you must update
 the corresponding directory paths accordingly.
+
 ● before_chunk_dir =
 "/home/GWU/Project_LLM_and_RAG_2024_GWU/Before-Chunking/"
+
 ● embed_download_dir =
 "/home/GWU/Project_LLM_and_RAG_2024_GWU/Embedding_Downloads_
 CSV/"
+
 ● logos_dir = "/home/GWU/Project_LLM_and_RAG_2024_GWU/Logos/"
+
 ● transposed_embed_dir =
 "/home/GWU/Project_LLM_and_RAG_2024_GWU/Transposed_Embeddings
 _CSV/"
+
 ● vector_dir =
 "/home/GWU/Project_LLM_and_RAG_2024_GWU/Vector_DB_Embeddings/"
 
-2. Before launching the online application, you need to run the
+3. Before launching the online application, you need to run the
 Notebook-LLM-RAG-Contracts.ipynb in VSCode. Before you press the Run All
 button on you console, you may consider changing the following parameters as
 per your requirement.
