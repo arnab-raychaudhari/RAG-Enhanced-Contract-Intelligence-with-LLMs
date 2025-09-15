@@ -1,0 +1,2279 @@
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 1]
+ 
+          
+ RURAL 
+DEVELOPMENT 
+Actions Needed to 
+Improve Assistance to Southwest Border Communities Known as Colonias  
+ 
+ 
+ Report to Congressional Committees  
+September 2024  
+ 
+GAO -24-106732   
+ United States Government Accountability Office  
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 2]
+ 
+  United States Government Accountability Office  
+   
+Highlights o f GAO -24-106732 , a report to 
+congressional committees   
+September 2024  
+RURAL DEVELOPMENT  
+Actions Needed to Improve Assistance to Southwest 
+Border Communities Known as Colonias  
+What GAO Found 
+Colonias —predominately rural, Hispanic communities near the U.S. -Mexico 
+border —face a range of economic, infrastructure, and environmental challenges . 
+For example, regions with colonias have poverty rates 3 to 9 percentage points 
+higher than other border regions.  Further, h ousing values in areas with colonias 
+are generally lower than those in the other border regions of each state, while the 
+vacan cy rates  are generally higher.  
+Five Department of Housing and Urban Development ( HUD ) and U.S. 
+Department of Agriculture ( USDA ) programs  provide grants and loans targeted 
+specifically to  colonias  to improve water  and wastewater  systems and housing.  
+However, USDA’s Single Family Housing programs  do not have a process for 
+identifying applications for projects in colonias . As a result , the agency  does not 
+have reliable  data on the extent to which its programs are benefiting  colonias, 
+and aligning with agency and statutory goals for supporting these communities . 
+Many colonias face challenges in obtaining and using federal assistance. For 
+example, l ocal governments may not have the staff capacity to apply for some 
+federal ly funded programs. In addition, the rural nature of these communities 
+often makes it expensive to connect to existing infrastructure. To help address 
+these challenges , HUD and USDA  offer technical assistance and grants.  
+Due to population changes, nearly 60 percent of colonias will likely become 
+ineligible in the future for certain targeted financial assistance. By statu te, U.S. -
+Mexico border states must set aside a percentage of their HUD Community Development Block Grant (CDBG) funding for colonias located within 
+metropolitan statistical areas  of 1 million persons or less. However, many 
+colonias are now part of areas that likely will soon exceed this threshold.  This 
+would render them ineligible for the set -aside , even though many of these areas 
+continue to have rural characteristics.  Revising the population requirement could 
+help preserve eligibility for many communities that were originally intended to 
+benefit from  the set-aside. 
+ 
+A Colonia No Longer Eligible for Department of Housing and Urban Development Funding 
+Remains Rural and Faces Poor Housing Conditions   
+ 
+View GAO -24-106732 . For more information, 
+contact Jill Naamane at (202) 512 -8678 or 
+naamanej@gao.gov . Why GAO Did This Study  
+Colonias generally refer to rural 
+communities in the border regions of 
+Arizona, California, New Mexico, and 
+Texas that are characterized by 
+substandard housing and lack of 
+access to adequate water and 
+wastewater infrastructure. The Joint 
+Explanatory Statement  accompanying 
+the Consolidated Appropriations Act, 
+2023 includ es a provision for GAO to 
+review the conditions of colonias  and 
+issues related to  federal assistance 
+available to them . 
+This report examines  conditions in 
+colonias,  the federal assistance 
+available to them , and challenges  they 
+may face in obtaining and using  federal 
+assistance.  GAO analyzed American 
+Community Survey data  and reviewed 
+USDA and HUD program 
+documentation and funding data for 
+fiscal years 2020 –2023. GAO also 
+interview ed representatives of federal 
+agencies, state governments, and 
+interest groups . GAO made physical 
+observations and conducted interviews 
+with local officials during site visits to 
+24 colonias in the four  U.S. -Mexico  
+border states.  
+What GAO Recommends  
+Congress should consider revising the 
+population  requirement for colonias to 
+receive CDBG set-aside funding given 
+population growth in the Southwest . 
+GAO is also mak ing two  
+recommendations to USDA , including 
+that it develop procedures to identify 
+applications for  Single  Family Housing 
+assistance for projects in colonias . 
+USDA agreed with both 
+recommendations.  
+ 
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 3]
+ 
+          
+Page i GAO -24-106732  Colonias Communities  Letter  1 
+Background  4 
+Areas with Colonias Generally Face Economic, Infrastructure, and 
+Environmental Challenges  6 
+Five Federal Programs Provide Assistance to Colonias; Two 
+USDA Programs Have Data Reliability Weaknesses  24 
+Colonias Face Challenges in Obtaining and Using Federal 
+Assistance, and Many May Soon Become Ineligible 37 
+Conclusions  47 
+Matter for Congressional Consideration 47 
+Recommendations for Executive Action  47 
+Agency Comments  48 
+Appendix I  Objectives, Scope, and Methodology  49 
+ 
+Appendix II  Selected Characteristics of Colonias and Areas with Colonias in  
+Each of the Four Border States  57 
+ 
+Appendix III  Other Federal Programs That May Assist Colonias  66 
+ 
+Appendix IV  GAO Contact and Staff Acknowledgments  69 
+ 
+Tables  
+Table 1: Federal Programs That Provide Targeted Assistance to 
+Colonias  25 
+Table 2: Annual Obligations to Projects in Colonias from HUD 
+Community Development Block Grant Colonias Set-Aside, 
+Fiscal Years 2020– 2023 26 
+Table 3: Annual Obligations to Colonias and Residents for 
+Selected USDA Water and Environmental Programs, Fiscal Years 2020– 2023 29 
+Table 4: Estimated Annual Obligations to Colonia Residents from 
+Selected USDA Single Family Housing Programs, Fiscal Years 2020– 2023 32 Contents  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 4]
+ 
+          
+Page ii GAO -24-106732  Colonias Communities  Table 5: Definitions of Colonias for Programs with Colonia-
+Targeted Funding 34 
+Table 6: USDA Programs with Special Features for Colonias  67 
+Table 7: Selected Federal Programs Useful to Colonias  68 
+ 
+Figures  
+Figure 1: Location of Colonias in Arizona, California, New Mexico, 
+and Texas, as of 2010  5 
+Figure 2: Selected Economic Characteristics in Areas with 
+Colonias, 2017– 2021 8 
+Figure 3: Examples of Different Housing Types in Colonias 10 
+Figure 4: Selected Housing Characteristics in Areas with Colonias, 
+2017– 2021 11 
+Figure 5: Selected Occupancy Characteristics of Housing in Areas 
+with Colonias, 2017– 2021 13 
+Figure 6: Cistern at a Home in a Texas Colonia  16 
+Figure 7: Example of Illegal Dumping in a Texas Colonia 17 
+Figure 8: Increase in Annual Number of Days with a Maximum 
+Temperature over 90 Degrees in Areas with Colonias by 
+Midcentury  19 
+Figure 9: Risk of Wildfire in Areas with Colonias  21 
+Figure 10: Risk of Flooding in Areas with Colonias  22 
+Figure 11: Risk of Storm Surge from a Hurricane in Areas with 
+Colonias  23 
+Figure 12: Projects in Arizona and Texas Funded with Community 
+Development Block Grant (CDBG) Colonias Set-Aside 
+Funds  27 
+Figure 13: Project in New Mexico Funded by the U.S. Department 
+of Agriculture’s Water and Waste Facility Loans and Grants to Alleviate Health Risks Program  30 
+Figure 14: Project in an Arizona Colonia Funded by the U.S. 
+Department of Agriculture’s Single Family Housing Programs 33 
+Figure 15: Colonias That May Lose Eligibility for Community 
+Development Block Grant (CDBG) Colonias Set-Aside Funding  44 
+Figure 16: Conditions in and around a Colonia in Pinal County, 
+Arizona, That Is Included in the Phoenix Metropolitan Statistical Area 45 
+Figure 17: Groups of Census Tracts Used as Units of Analysis  51 
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 5]
+ 
+          
+Page iii GAO -24-106732  Colonias Communities  Figure 18: Selected Characteristics of Colonias and Areas with 
+Colonias in Arizona 58 
+Figure 19: Selected Characteristics of Colonias and Areas with 
+Colonias in California  60 
+Figure 20: Selected Characteristics of Colonias and Areas with 
+Colonias in New Mexico 62 
+Figure 21: Selected Characteristics of Colonias and Areas with 
+Colonias in Texas  64 
+ 
+ 
+                   
+Abbreviations 
+ CDBG   Community Development Block Grant 
+EPA  Environmental Protection Agency  
+HUD   Department of Housing and Urban Development 
+MSA   metropolitan statistical area 
+USDA   U.S. Department of Agriculture  
+ 
+This is a work of the U.S. government and is not subject to copyright protection in the 
+United States. The published product may be reproduced and distributed in its entirety 
+without further permission from GAO. However, because this work may contain 
+copyr ighted images or other material, permission from the copyright holder may be 
+necessary if you wish to reproduce this material separately.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 6]
+ 
+  
+Page 1  GAO -24-106732  Colonias Communities  441 G St. N.W.  
+Washington, DC 20548  
+September 19, 2024 
+The Honorable Brian Schatz  
+Chair  
+The Honorable Cindy Hyde-Smith  
+Ranking Member  
+Subcommittee on Transportation, Housing and Urban Development, and 
+Related Agencies  
+Committee on Appropriations  
+United States Senate  
+The Honorable Steve Womack  
+Chair man 
+The Honorable Mike Quigley  
+Ranking Member  
+Subcommittee on Transportation, Housing and Urban Development, and 
+Related Agencies  
+Committee on Appropriations  
+House of Representatives  
+Colonias have historically been characterized as rural communities with a 
+majority Hispanic/Latino population and high rates of poverty. Although 
+there is no universally accepted definition of “colonias, ” in the United 
+States the term generally refers to communities along the U.S.-Mexico border with substandard housing and lack of access to adequate water 
+and wastewater infrastructure.
+1 According to the Department of Housing 
+and Urban Development (HUD), as of 2010 there were over 2,000 
+communities designated as colonias across Arizona, California, New 
+Mexico, and Texas.2 
+Several pieces of legislation were enacted in the early 1990s to help 
+address conditions in colonias. For example, the Cranston-Gonzalez 
+National Affordable Housing Act directed the U.S.-Mexico border states to 
+set aside a percentage of their annual state Community Development 
+ 
+1In this report, the U.S. -Mexico border region refers to the area of the United States within 
+150 miles of the border between the United States and Mexico.  
+2These data were the most current available.   Letter  
+ 
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 7]
+ 
+     
+Page 2  GAO -24-106732  Colonias Communities  Block Grant (CDBG) allocation to fund community development and 
+housing activities in colonias, as defined by law.3 
+The Joint Explanatory Statement to the Consolidated Appropriations Act, 
+2023 includes a provision for us to review conditions of and federal assistance for colonias, along with how federal agencies define colonias.
+4 
+This report (1) describes conditions in colonias, (2) examines federal 
+assistance available to colonias, and (3) examines challenges that may 
+affect colonias in obtaining and using federal assistance and federal 
+efforts to mitigate those challenges.  
+To address all objectives, we visited 24 colonias in Arizona, California, New Mexico, and Texas to observe conditions and projects funded by federal programs. Within each state, we selected colonias that were in 
+both incorporated and unincorporated areas and that reflected a variety of 
+types and amounts of federal funding, among other criteria. Information 
+we obtained from these site visits is not generalizable to all colonias. 
+Additionally, we interviewed federal, state, and local government officials 
+and representatives from national and local nonprofit organizations who 
+work in colonias.  
+For our first objective, we analyzed 2010 HUD and University of New 
+Mexico geospatial data on colonias and 2020 Census Bureau data to 
+determine in which census tracts colonias were located. We then 
+analyzed data from the 2017– 2021 American Community Survey  to 
+compare economic and housing conditions in these census tracts with 
+others in the border regions of each state. Additionally, we analyzed data 
+sets from relevant federal agencies to describe the environmental risk of 
+heat, wildfires, flooding, and hurr icane storm surge in census tracts with 
+colonias.
+5 
+ 
+3Cranston-Gonzalez National Affordable Housing Act, Pub. L. No. 101-625, § 916, 104 
+Stat. 4079, 4396-4397 (1990) (codified as amended at 42 U.S.C. § 5306 note).   
+4U.S. Congress, Joint Explanatory Statement of the Committee on Appropriations, House 
+of Representatives, 117th Congress, 2d Session, Washington D.C. 2023, Book 2, 
+Divisions G -N, pp. 2863-2864, accompanying Pub. L. No. 117-328.  
+5All these data sources represented the most recent available data. To assess the 
+reliability of these data, we interviewed federal officials knowledgeable about the data, reviewed existing information on the data and the system that produced them, and 
+reviewed a GAO data reliability assessment for another  report using the data, among 
+other things. We found these data to be sufficiently reliable for the purposes of describing 
+conditions in colonias.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 8]
+ 
+     
+Page 3  GAO -24-106732  Colonias Communities  For our second objective, we reviewed laws and regulations and agency 
+materials. We then established and applied criteria to determine which 
+federal programs provided targeted assistance to colonias. For each 
+targeted program, we analyzed agency documentation on how funds can 
+be used and obtained annual obligations from fiscal years 2020 through 
+2023.6 We also analyzed legislation, regulations , and additional agency 
+information on eligibility criteria for each program and summarized site 
+visit observations of projects funded with targeted programs. In addition, 
+we assessed U.S. Department of Agriculture (USDA) Single Family 
+Housing processes  against statutory and agency requirements. 
+For our third objective, we reviewed relevant literature and interviewed the parties described above, as well as recipients of funding from programs that provide targeted assistance to colonias. We also observed 
+evidence of challenges faced by colonias, as  well as actions that had 
+been undertaken to address these challenges. To determine the potential 
+effect of population changes on communities’ eligibility for targeted 
+programs, we reviewed statutory and regulatory eligibility requirements 
+that apply to colonias for HUD and USDA programs, and we analyzed 
+geographic data from HUD on the communities that are currently eligible 
+as colonias under its definition. In the interviews described above, we 
+discussed federal efforts to collaborate across agencies and w ith local 
+governments and to mitigate challenges to obtaining funding. 
+See appendix I for more detailed information on our scope and 
+methodology. 
+We conducted this performance audit from March 2023 to September 
+2024 in accordance with generally accepted government auditing 
+standards. Those standards require that we plan and perform the audit to 
+obtain sufficient, appropriate evidence to provide a reasonable basis for 
+our findings and conclusions based on our audit objectives. We believe 
+that the evidence obtained provides a reasonable basis for our findings 
+and conclusions based on our audit objectives.  
+ 
+ 
+ 
+6An obligation is a definite commitment that creates a legal liability of the United States 
+government for the payment of goods or services, or a legal duty on the part of the United 
+States government that could mature into a legal liability. An agency incurs an obligation, for example, when it signs a grant or loan agreement,  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 9]
+ 
+     
+Page 4 GAO -24-106732  Colonias Communities   
+ 
+The history of the development of colonias varies among the border 
+states, with some colonias dating back over a century. For example, some colonias in New Mexico began as settlements associated with early 
+U.S. military forts and Catholic missionary activities. Colonias in California 
+were established before 1929, when subdivision laws went into effect in 
+the state, according to one study.
+7 
+However, the development of colonias began to accelerate in the mid-
+20th century. For example, colonias emerged in Texas around the 1950s, 
+when developers began subdividing agriculturally valueless land in unincorporated areas and selling it to individuals  looking for affordable 
+housing. These developers could subdivide and sell this land as residential without providing basic infrastructure because, at the time, county governments in Texas could not regulate the subdivision of land 
+outside the jurisdiction of city governments, according to a government 
+report.
+8 Additionally, colonias referred to as “wildcat subdivisions ” 
+emerged in Arizona in the 1950s, established by individuals who did not 
+understand or wish to follow government regulations.  
+Present-day colonias are communities of all types and sizes, both 
+incorporated and unincorporated. They include high-poverty subdivisions, 
+retirement communities, and tribal reservations. These communities are found throughout the border region, with the majority concentrated in 
+Texas (see fig. 1). Communities are designated as colonias via a process 
+that varies by state and generally involves an act of local government, such as a resolution by a County Board of Commissioners.  
+ 
+7Vinit Mukhija and Paavo Monkkonen, “Federal Colonias Policy in California: Too Broad 
+and Too Narrow, ” Housing Policy Debate, vol. 17, no. 4 (2006): 755– 780. 
+8Department of the Interior, U.S. Geological Survey, CHIPS: A New Way to Monitor 
+Colonias Along the United States -Mexico Border , Open-File Report 2007-1230 (Reston, 
+Virginia: 2007).  Background  
+Development of Colonias  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 10]
+ 
+     
+Page 5 GAO -24-106732  Colonias Communities  Figure 1: Location of Colonias in Arizona, California, New Mexico, and Texas, as of 2010  
+ 
+Note: The figure reflects the location of colonias included in Department of Housing and Urban 
+Development or University of New Mexico data as of 2010. 
+ 
+Legislation in the early 1990s established a set-aside and preference 
+within new and existing federal programs for colonias. This targeted assistance is administered by HUD and USDA. For example, the 
+Cranston-Gonzalez National Affordable Housing Act, as am ended, 
+established a set-aside for colonias that directs HUD to provide grants to 
+colonias using funds that may be made available through the CDBG State 
+Program. In addition, legislation established targeted assistance for 
+colonias through USDA ’s Rural Development grant and loan programs. 
+To be eligible for the targeted assistance through these programs, a community must meet the applicable program’ s specific definition of a 
+colonia, which can vary. However, all of these programs require that a 
+community demonstrate lack of potable water systems, adequate sewage 
+systems, and safe and sanitary housing. 
+Federal Assistance to 
+Colonias  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 11]
+ 
+     
+Page 6 GAO -24-106732  Colonias Communities   
+  
+ 
+  
+According to our analysis, areas with colonias were generally more 
+economically disadvantaged than other border regions of each state in 
+2017– 2021.
+9 
+• Poverty. In all four border states, the percent of families in areas with 
+colonias living below the poverty level was about 3 to 9 percentage points higher than in the other border regions.
+10 
+• Employment. In California and Texas, unemployment rates of the population age 16 and older in areas with colonias were about 2 to 3 percentage points higher than in the other border regions of these 
+ 
+9These estimates are based on the American Community Survey ’s 2017 –2021 5-year 
+data. In our analysis, unless otherwise stated, areas with colonias are all census tracts in 
+each border state that contain one or more colonias included in Department of Housing and Urban Development or University of New Mexico data as of 2010. The other border 
+regions of each state are all census tracts within 150 miles of the U.S. -Mexico border 
+excluding census tracts that contain one or more colonias or are in metropolitan statistical 
+areas with a population exceeding 1 million.  
+10The Census Bureau uses money income thresholds that vary by family size and 
+composition to determine who is in poverty. If a family ’s total income is less than the 
+associated income threshold, then that family and every individual in it are considered to be in poverty.  Areas with Colonias 
+Generally Face 
+Economic, 
+Infrastructure, and 
+Environmental 
+Challenges  
+Areas with Colonias Tend 
+to Be Economically 
+Disadvantaged Compared 
+with Other Border Regions  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 12]
+ 
+     
+Page 7  GAO -24-106732  Colonias Communities  states.11 In Arizona and New Mexico, unemployment rates were not 
+statistically different than in the other border regions.12 
+• Educational attainment. In all four border states, the percent of the 
+population age 25 and older with less than a high school education 
+was about 7 to 15 percentage points higher in areas with colonias 
+than in the other border regions. Research has found that lower 
+educational attainment is generally correlated with both lower 
+earnings and higher unemployment rates.13 
+See figure 2 for more information on how areas with colonias compare 
+with other border regions and the state overall in terms of these economic characteristics.  
+ 
+11According to the Bureau of Labor Statistics, individuals age 16 and older are considered 
+employed if they have worked at least 1 hour in the last 4 weeks for themselves or as a 
+paid employee or were temporarily on leave, and unemployed if they are not working but 
+have actively looked for work within the last 4 weeks.  
+12The unemployment rate of communities with low labor force participation may not reflect 
+the true rate of unemployment because certain populations are not counted as 
+unemployed— such as individuals not participating in the labor force. To be considered 
+participating in the labor force, an individual must either be employed or have been 
+actively looking for work within the last week. We found that in areas with colonias, the percentage of the population age 16 and older who were in the labor force was 3 to 23 
+percentage points lower than in other border regions, and that labor force participation in 
+areas with colonias was statistically different from other border regions in all four border states. Individuals in low -income communities generally face greater barriers to 
+employment —such as lack of transportation and childcare —that may discourage them 
+from pursuing employment opportunities. See Kelly Edmiston, “Why Aren ’t More People 
+Working in Low - and Moderate-Income Areas?, ” Economic Review (Federal Reserve 
+Bank of Kansas, 2019).  
+13Bureau of Labor Statistics, “Education Pays, 2022, ” Career Outlook  (May 2023), 
+accessed June 7, 2024, https://www.bls.gov/careeroutlook/2023/data- on-
+display/education-pays.htm . 
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 13]
+ 
+     
+Page 8 GAO -24-106732  Colonias Communities  Figure 2: Selected Economic Characteristics in Areas with Colonias, 2017– 2021  
+ 
+aAreas with colonias are census tracts that contain one or more colonias included in Department of 
+Housing and Urban Development or University of New Mexico data as of 2010. 
+bOther border regions are census tracts within 150 miles of the U.S.-Mexico border in each state that 
+do not contain one or more colonias. 
+ 
+According to our analysis, certain housing characteristics in areas with 
+colonias differed from those in the other border regions of each state in 
+2017– 2021:14 
+• Housing type. In all four border states, the percent of housing units 
+that were mobile homes was about 7 to 22 percentage points higher 
+ 
+14These estimates are based on the American Community Survey ’s 2017 –2021 5-year 
+data.  
+Housing Characteristics 
+Generally Differ between 
+Areas with Colonias and 
+Other Border Regions  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 14]
+ 
+     
+Page 9  GAO -24-106732  Colonias Communities  in areas with colonias than in the other border regions.15 Mobile 
+homes may be more common in these areas because they are 
+generally more affordable than site- built housing.16 See figure 3 for 
+examples of housing types we observed on our site visits to the four 
+border states. 
+ 
+15While the term “mobile home” is often used colloquially, HUD has used the term 
+“manufactured home” since 1980 to refer to a “mobile home. ” See Pub. L. No. 96-399, § 
+308(c)(4), 94 Stat. 1641 (1980), amending Pub. L. No. 106-569, 88 Stat. 700 (1974) 
+(modifying the term “mobile home” to “manufactured home” in the National Manufactured 
+Housing Construction and Safety Standards Act of 1974, which established federal construction and safety standards for mobile homes). To be considered a manufactured 
+home (formerly a mobile home), the dwelling must meet federal manufactured home 
+constructi on and safety standards, which are regulated and enforced by HUD. 42 U.S.C. 
+§§ 5401- 5426, 24 C.F.R. pts. 3280, 3282.  
+16Site-built housing is constructed at permanent locations, whereas a manufactured home 
+(i.e., a mobile home) is prefabricated housing that is assembled in factories and then 
+transported to sites of use. According to the Census Bureau, the average sales pric e of a 
+new manufactured home in 2023 was around $124,300, while the average sales price of a 
+new site- built home was $514,000.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 15]
+ 
+     
+Page 10 GAO -24-106732  Colonias Communities  Figure 3: Examples of Different Housing Types in Colonias  
+ 
+• Housing value. In all four border states, the percent of housing units 
+valued below $100,000 was about 11 to 20 percentage points higher 
+in areas with colonias than in the other border regions. This difference may be explained, in part, by areas with colonias having a 
+higher percentage of inexpensive housing types, such as mobile 
+homes. 
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 16]
+ 
+     
+Page 11 GAO -24-106732  Colonias Communities  • Housing age. In California, New Mexico, and Texas, the percent of 
+housing units built in 1990 or later was about 5 to 30 percentage 
+points higher in areas with colonias than in the other border regions of these states. In Arizona, the percent of housing units built in 1990 or later in areas with colonias  was not statistically different from the 
+other border regions. Targeted federal assistance to colonias started 
+to become available in the early 1990s, which may help explain an 
+increase in development in these areas. 
+See figure 4 for additional information on housing characteristics in areas 
+with colonias. 
+Figure 4: Selected Housing Characteristics in Areas with Colonias, 2017– 2021  
+ 
+aAreas with colonias are census tracts that contain one or more colonias included in Department of 
+Housing and Urban Development or University of New Mexico data as of 2010. 
+bOther border regions are census tracts within 150 miles of the U.S.-Mexico border in each state that 
+do not contain one or more colonias. 
+ 
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 17]
+ 
+     
+Page 12  GAO -24-106732  Colonias Communities  Certain occupancy characteristics of housing in areas with colonias also 
+differed from those in the other border regions in each state in 2017–
+2021:17 
+• Owner -occupancy. In all four border states, the percent of owner -
+occupied housing units was about 5 to 15 percentage points higher in areas with colonias than in the other border regions. Research has 
+found that residents of colonias may use unconventional financing—
+such as contracts for deed—to buy a home because low -income 
+individuals often do not qualify for conventional financing.
+18 
+• Vacancy. In Arizona, California, and New Mexico, the percent of 
+vacant housing units was about 5 to 16 percentage points higher in areas with colonias than in the other border regions in each state. In 
+Texas, the percent of vacant housing units in areas with colonias was 
+not statistically different from the border regions.
+19 In colonias, 
+properties may be vacant for various reasons —for example, a 
+property owner may have moved but not have sold the property due to a lack of available financing in these areas.
+20 
+• Overcrowding. In Arizona and Texas, the percent of housing units 
+that were overcrowded was about 2 to 5 percentage points higher in areas with colonias than in the other border regions.
+21 In California 
+and New Mexico, overcrowding in areas with colonias was not 
+statistically different than in the border regions. Research has found 
+that overcrowding often stems from a lack  of affordable housing. For 
+ 
+17These estimates are based on the American Community Survey ’s 2017 –2021 5-year 
+data.  
+18Some colonia residents have purchased their homes through an unconventional 
+financing mechanism called a contract for deed. Through a contract for deed, the 
+purchase of a property is financed by the seller, rather than through a third- party lender 
+such as a commercial bank. Under this arrangement, the buyer takes immediate 
+possession of the property, often paying little or nothing down, but the seller retains the 
+legal title to the property until the buyer has paid off the purchase price. See Peter M. 
+Ward,  Heather K. Way, and Lucille Wood, The Contract for Deed Prevalence Project: A 
+Final Report to the Texas Department of Housing and Community Affairs  (August 2012).  
+19According to the American Community Survey, a housing unit is considered vacant if no 
+one is living there at the time of the interview.  
+20Noah J. Durst and Peter M. Ward, “Lot Vacancy and Property Abandonment: Colonias 
+and Informal Subdivisions in Texas, ” International Journal of Housing Policy , vol. 15, no. 4 
+(2015), 377 –399.  
+21We defined overcrowding as more than one person per room. See Kevin S. Blake, 
+Rebecca L. Kellerson, and Aleksandra Simic, Measuring Overcrowding in Housing 
+(Department of Housing and Urban Development, 2007).  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 18]
+ 
+     
+Page 13 GAO -24-106732  Colonias Communities  example, individuals or families may share housing with others when 
+they cannot afford housing on their own.22 
+See figure 5 for additional information on occupancy characteristics of 
+housing in areas with colonias.  
+Figure 5: Selected Occupancy Characteristics of Housing in Areas with Colonias, 2017 –2021  
+ 
+aWe defined overcrowding as more than one person per room. See Department of Housing and 
+Urban Development, Measuring Overcrowding in Housing (2007). 
+bAreas with colonias are census tracts that contain one or more colonias included in Department of 
+Housing and Urban Development or University of New Mexico data as of 2010. 
+cOther border regions are census tracts within 150 miles of the U.S.-Mexico border in each state that 
+do not contain one or more colonias. 
+ 
+Colonias have historically lacked access to adequate infrastructure and 
+services, such as water and wastewater. Colonias were often built in 
+unincorporated areas where developers were able to sell property as residential without providing basic infrastructure. In the early 1990s, 
+federal efforts began to address the infrastructure needs of these 
+communities. 
+ 
+22Molly K. Richard et al., “Quantifying Doubled- Up Homelessness: Presenting a New 
+Measure Using U.S. Census Microdata, ” Housing Policy Debate, vol. 34, no. 1 (2022).  
+Many Colonias Are 
+Connected to Water and 
+Wastewater Systems, but 
+Infrastructure Needs 
+Remain  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 19]
+ 
+     
+Page 14  GAO -24-106732  Colonias Communities  The majority of colonias in the four border states are now served by some 
+form of water and wastewater infrastructure. According to a federally 
+funded needs assessment conducted by the Rural Community Assistance 
+Partnership in 2015, about 95 percent of these colonias were served by 
+some form of water infrastructure (i.e., a public water system or a private 
+well). About 71 percent were served by some form of wastewater 
+infrastructure (i.e., a public or private sewer or septic system).23 
+However, not all the colonias served by water and wastewater 
+infrastructure had adequate service. The 2015 needs assessment found that about 12 percent of colonias had inadequate water service and about 
+17 percent had inadequate wastewater service.
+24 Local officials we spoke 
+with in all four states also highlighted inadequacies of the water and 
+wastewater infrastructure serving some colonias in their regions. For 
+example, local officials in California stated that water infrastructure 
+serving colonias is often connected to more households than it is designed to serve, leading to insufficient water supply to these 
+communities. 
+ 
+23Rural Community Assistance Partnership, U.S. -Mexico Border Needs Assessment and 
+Support Project: Phase II Assessment Report  (2015). This study was a follow -up to an 
+initial report by USDA and the Environmental Protection Agency that assessed the water 
+and wastewater needs of selected colonias by analyzing publicly available data. The initial 
+report assessed counties with 10 or  more colonias —which together contained more than 
+95 percent of designated colonias —as well as selected counties in each state with fewer 
+than 10 colonias. See U.S. Department of Agriculture and Environmental Protection Agency, U.S. Mexico Border Needs Assessment and Support Project: Phase 1 Scoping 
+Assessment Report (2014).  
+In 2014, USDA awarded the Rural Community Assistance Partnership with a grant to 
+conduct the follow -up report that would validate the findings of the initial report by 
+conducting an in-depth assessment of the water and wastewater infrastructure in these 
+selected colonias. The colonias assessed in this follow -up report may not be the same as 
+the colonias that we analyzed for our report because the follow -up report assessed (1) 
+communities that met the definition of colonias under USDA regulation, whereas we analyzed colonias included in Department of Housing and Urban Development or 
+University of New Mexico data as of 2010, and (2) only colonias in selected counties, 
+whereas we analyzed all colonias included the Department of Housing and Urban 
+Development or University of New Mexico data as of 2010.  
+24The needs assessment defines a colonia with inadequate access to water infrastructure 
+as a community served by a public water system, private wells, or a combination of both, 
+but with inadequate quantity or quality of source water. It defines a colonia wit h 
+inadequate access to wastewater infrastructure as a community served by a public sewer, private sewer, onsite septic system, or combination thereof, but where Rural Community 
+Assistance Partnership staff determined that the service was inadequate.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 20]
+ 
+     
+Page 15  GAO -24-106732  Colonias Communities  Additionally, the 2015 needs assessment found that about 5 percent of 
+colonias did not have any access to water infrastructure and about 29 
+percent did not have any access to wastewater infrastructure.25 During 
+our site visits, we observed several colonias that were unserved by either 
+water or wastewater infrastructure. For example, we observed a colonia 
+in Texas where residents obtained water by hauling and storing it in a 
+cistern on their property (see fig. 6). A county official stated it was not 
+economically feasible to extend water infrastructure to some colonias, 
+given their distance from existing water systems.  
+ 
+25The needs assessment defines a colonia with no access to water infrastructure as a 
+community where Rural Community Assistance Partnership staff could not identify a water 
+source, or whose residents are known to haul water. It defines a colonia with no access to 
+wastewater infrastructure as a community where Rural Community Assistance Partnership 
+staff could not identify any permitted wastewater infrastructure.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 21]
+ 
+     
+Page 16 GAO -24-106732  Colonias Communities  Figure 6: Cistern at a Home in a Texas Colonia  
+ 
+Local officials in all four states also noted other infrastructure and 
+services that were either inadequate or unavailable in some colonias. 
+Officials from three states stated that inadequate stormwater drainage 
+infrastructure was a concern. Local officials also said some colonias lacked streetlighting, sidewalks, animal control, and trash service. For 
+example, a local official in Texas said many colonia residents lacked 
+municipal trash service, which could make trash difficult to dispose of and lead to illegal dumping by residents and local businesses (see fig. 7). 
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 22]
+ 
+     
+Page 17 GAO -24-106732  Colonias Communities  Figure 7: Example of Illegal Dumping in a Texas Colonia  
+ 
+ 
+Local officials in all four states expressed concern that some colonias ’ 
+sources of drinking water may be at risk of contamination for the following 
+reasons:  
+• Failing infrastructure. Officials from all four states said some 
+colonias were at risk of water contamination because of water or wastewater infrastructure that was failing due to age or poor 
+Colonias ’ Environmental 
+Concerns Include Water 
+Contamination and the 
+Effects of Natural Hazards  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 23]
+ 
+     
+Page 18  GAO -24-106732  Colonias Communities  maintenance. For example, officials from Arizona, New Mexico, and 
+Texas said that septic systems —which many colonias rely on for 
+wastewater service—are often poorly or improperly maintained and can risk contaminating groundwater if the tanks begin to leak.  
+• Industry. Officials from Arizona and New Mexico said some colonias 
+experienced groundwater contamination from local industry, such as 
+agriculture and mining. For example, groundwater in several New 
+Mexico colonias was contaminated by the release of hazardous substances from nearby copper and iron mines. 
+• Runoff from Mexico. Officials from Arizona and California said 
+colonias in their state that are close to the border are at risk of water 
+contamination from Mexico. For example, the Salton Sea—around 
+which several of California’ s colonias are located—is routinely 
+contaminated by agricultural runoff and untreated waste carried in from Mexico on the New River. 
+Additionally, areas with colonias in all four states are at risk of being 
+affected by certain natural hazards:  
+• Heat and drought. According to our analysis of federal climate data, 
+areas with colonias in the four border states are projected to 
+experience an average of between 39 to 48 more days annually with a 
+high temperature above 90 degrees Fahrenheit by midcentury (see fig. 8).
+26 Extreme heat can have negative effects on human health, 
+such as temperature-related illnesses and death, and these effects 
+can be particularly acute for populations without access to air 
+conditioning. For example, a state official in California said there have 
+been heat-related deaths in colonias because residents either did not have air conditioning or could afford to run it.  
+ 
+26This estimate refers to the projected change in annual number of days with a maximum 
+temperature over 90 degrees Fahrenheit by midcentury (i.e., 2036– 2065), using both a 
+low-emission and a high- emission scenario for projected climate change from the U.S. 
+Global Change Research Program ’s fourth National Climate Assessment.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 24]
+ 
+     
+Page 19 GAO -24-106732  Colonias Communities  Figure 8: Increase in Annual Number of Days with a Maximum Temperature over 90 Degrees in Areas with Colonias by 
+Midcentury  
+ 
+Note: This figure represents the projected change in annual days with a maximum temperature over 
+90 degrees Fahrenheit by midcentury (i.e., 2036–2065) using a low-emission scenario for projected climate change from the U.S. Global Change Research Program’s fourth National Climate Assessment. The figure represents these estimates only for census tracts that we identified as containing one or more colonias. 
+ 
+Higher average temperatures may also exacerbate other natural 
+hazards, such as drought.27 Since 2000, the southwestern United 
+States has been experiencing its driest period in the last 1,200 years, 
+and these conditions have contributed to reduced surface and 
+groundwater availability, according to a 2023 study.28 An official in 
+Texas told us that colonias have experienced water service 
+disruptions when water levels of the Rio Grande River —the area’ s 
+sole surface -water source—have become too low due to drought. 
+ 
+27We did not analyze drought data because we were unable to identify national -level 
+geospatial data that were both relevant to areas with colonias and sufficiently reliable for 
+our purposes.  
+28U.S. Global Change Research Program,  Fifth National Climate Assessment  
+(Washington, D.C.: 2023).  
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 25]
+ 
+     
+Page 20  GAO -24-106732  Colonias Communities  • Wildfire. Increasing temperatures and drought conditions also 
+contribute to increases in wildfire frequency. According to our analysis 
+of U.S. Forest Service data, about 61 percent of areas with colonias 
+across all four border states are at some level of risk of wildfire, with about 26 percent having a high or very high risk (see fig. 9).
+29 Around 
+1,300 colonias are in areas at some risk of wildfire, with about 400 in 
+areas at high or very high risk, according to our analysis.  
+Wildfires can directly endanger people and property, as well as 
+indirectly affecting human health by degrading water and air quality. 
+County officials in Arizona stated that fire services face challenges extinguishing fires quickly in some colonias because they are remote 
+or do not have fire hydrants.  
+ 
+ 
+29The Forest Service maps wildfire hazard potential based on landscape conditions and 
+other observations. These maps include an index of wildfire hazard potential for the United 
+States, based on, among other factors, annual burn probabilities and potential i ntensity of 
+large fires. The Forest Service categorizes the wildfire hazard potential index into five 
+classes: very low, low, moderate, high, and very high. The Forest Service designates as 
+“high” those areas with a wildfire hazard potential index from the 85th to the 95th 
+percentile,  and as “very high” those areas above the 95th percentile. For this analysis, we 
+combined the high and very high wildfire hazard potential categories.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 26]
+ 
+     
+Page 21 GAO -24-106732  Colonias Communities  Figure 9: Risk of Wildfire in Areas with Colonias  
+ 
+The U.S. Forest Service maps wildfire hazard potential based on landscape conditions and other 
+observations. This figure represents these estimates only for census tracts that we identified as containing one or more colonias. 
+aThe Forest Service designates as “medium” those areas with wildfire hazard potential index from the 
+68th to the 84th percentile. 
+bThe Forest Service designates as “high” those areas with wildfire hazard potential index from the 
+85th to the 95th percentile, and as “very high” those areas above the 95th percentile. 
+ 
+• Flooding. According to our analysis of Federal Emergency 
+Management Agency data, about 95 percent of areas with colonias in 
+Arizona, California, and New Mexico are at high risk of flooding (see 
+fig. 10).30 All the areas with colonias that were at low risk of flooding 
+were in California. About 173 colonias were in areas at high risk of flooding, according to our analysis.  
+ 
+30We analyzed Federal Emergency Management Agency data from 2023. For our 
+analysis, high flood hazard corresponds to areas in 100-year floodplains (areas with a 1 
+percent or higher annual chance of flooding). In New Mexico, we were unable to map five 
+census tracts due to lack of intersecting flood plain data. Tracts were excluded if 90 
+percent of the tract did not have floodplain coverage.  
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 27]
+ 
+     
+Page 22 GAO -24-106732  Colonias Communities  Figure 10: Risk of Flooding in Areas with Colonias  
+ 
+Note: This figure represents these estimates only for census tracts that we identified as containing 
+one or more colonias. 
+ 
+There was not sufficient data on flood hazards along the U.S.-Mexico 
+border in Texas for us to analyze the overall flood risk to colonias.31 
+However, local officials in Texas told us that flooding was a concern 
+for colonias in their region. For example, in Cameron County, Texas —
+which is bordered by the Rio Grande River in the south and the Gulf of Mexico to the east—170 of the county ’s 174 colonias are in areas 
+at high risk for flooding.  
+Flooding can cause damage to property and infrastructure, water quality concerns, and human health hazards. For example, local 
+officials from a city adjacent to the U.S.-Mexico border told us that 
+flash flooding can bring stormwater laden with trash and other pollutants into Arizona from Mexico. They said this runoff affects the entire city, including many colonias.  
+• Hurricanes.  According to our analysis of National Oceanic and 
+Atmospheric Administration data, about 9 percent of areas with 
+colonias across all four border states are at risk of a hurricane. All of 
+ 
+31We did not assess flood risk in Texas because over 50 percent of tracts in Texas did not 
+intersect with any flood hazard areas, which means we could not assess the extent to 
+which they were at risk of flooding.  
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 28]
+ 
+     
+Page 23 GAO -24-106732  Colonias Communities  the areas at risk were in the Gulf Coast area of Texas (see fig. 11).32 
+About 126 colonias were in this area, according to our analysis.  
+High winds from hurricanes can cause damage to property and 
+infrastructure, and the storm surge from hurricanes can cause 
+flooding. County officials in Texas noted that some colonias are built in low -lying areas that are particularly prone to flooding, and that 
+these communities are especially vulnerable to natural hazards such as hurricanes. 
+Figure 11: Risk of Storm Surge from a Hurricane in Areas with Colonias  
+ 
+This figure represents areas at risk of exposure to hurricane storm surge. The National Oceanic and 
+Atmospheric Administration’s Sea, Lake, and Overland Surges from Hurricanes model estimates storm surge heights resulting from various categories of hurricanes. The figure represents these estimates only for census tracts that we identified as containing one or more colonias. 
+aAreas at risk of exposure to a storm surge from a Category 1, 4, or 5 hurricane. 
+ 
+ 
+32Our analysis of National Oceanic and Atmospheric Administration storm surge data is 
+based on a model that estimates the maximum extent of storm surge at high tide. The 
+agency provides estimates of hurricane storm surge using a model called Sea, Lake, and 
+Overland Surges from Hurricanes. This model includes hypothetical hurricanes under 
+different storm conditions, such as landfall location, trajectory, and forward speed.  
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 29]
+ 
+     
+Page 24 GAO -24-106732  Colonias Communities  Additionally, many colonias have certain socioeconomic characteristics —
+such as a higher prevalence of poverty, unemployment, and low 
+educational attainment—that may affect their ability to prepare for and 
+respond to natural hazards.33 
+For additional information on economic, housing, and environmental 
+characteristics in areas with colonias in each state, see appendix II.  
+ 
+  
+ 
+   
+Five federal programs provided targeted funding to colonias from fiscal years 2020 through 2023 for water, wastewater, and housing needs. The 
+funds were provided to colonias via a dedicated funding set- aside, a 
+funding preference, or both. As seen in table 1, these programs were 
+HUD’ s CDBG and USDA ’s Water and Waste Facility Loans and Grants to 
+Alleviate Health Risks; Individual Water and Wastewater Grants; Direct 
+Home Loans; and Home Repair Loans and Grants. 
+ 
+ 
+ 
+33The Centers for Disease Control and Prevention’ s Agency for Toxic Substances and 
+Disease Registry uses the following 16 American Community Survey variables to 
+determine a community ’s vulnerability to hazardous events: below 150 percent of the 
+poverty level, unemployed, housing cost burden, no high school diploma, no health 
+insurance, age 65 and older, age 17 and younger, civilian with a disability, single- parent 
+households, English language proficiency, racial or ethnic minority status, multiunit 
+structures, mobile homes, crowding, no vehicle, and group quarters.  Five Federal 
+Programs Provide 
+Assistance to Colonias; Two USDA 
+Programs Have Data 
+Reliability 
+Weaknesses  
+Five Programs Target 
+Assistance to Colonias  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 30]
+ 
+     
+Page 25 GAO -24-106732  Colonias Communities  Table 1: Federal Programs That Provide Targeted Assistance to Colonias  
+Agency/program  Description  Requirements to assist 
+colonias  Recipients of targeted 
+assistance to colonias  
+HUD     
+Community Development Block 
+Grant (CDBG) colonias set -
+aside  Provides grants for projects in 
+colonias, including those related 
+to water, sewage, or housing 
+needs.  The U.S. -Mexico border states 
+must set aside up to 10 percent 
+of their annual state CDBG 
+allocation for projects in colonias .
+a State governments, which 
+disburse funds to local governments . 
+USDA     
+Water and Environmental Programs  
+Water and Waste Facility Loans 
+and Grants to Alleviate Health Risks  Provides grants and loans for 
+water supply and waste disposal facilities and services that serve communities facing 
+significant health risks due to 
+inadequate water supply systems or waste disposal facilities.  Applicants serving colonias 
+receive a preference for a loan or grant .
+b  State and local governments, 
+nonprofit organizations, and federally recognized Tribes  
+Individual Water and 
+Wastewater Grants  Provides grants to connect 
+water supply and waste 
+disposal systems to individual 
+residences and install plumbing and related fixtures.  Applicants residing in colonia s 
+receive a preference for a loan or grant .
+c Individuals residing in colonias  
+ 
+Single Family Housing Programs  
+Direct Home Loans  Provides loans to acquire, build, 
+repair, renovate, or relocate dwellings in eligible rural areas.  USDA must set aside 5 percent 
+of annual lending authority for 
+designated rural housing 
+programs, giving priority to colonias .
+d Eligible residents in colonias  
+Home Repair Loans and Grants  Provides (1) loans to repair and 
+rehabilitate a property and (2) grants to remove health and 
+safety hazards or make the unit 
+accessible.  USDA must set aside 5 percent 
+of annual lending authority for designated rural housing 
+programs, giving priority to 
+colonias .
+e Eligible homeowners in colonias 
+(loans) and eligible homeowners age 62 and older in colonias (grants)  
+Source: GAO analysis of Department of Housing and Urban Development (HUD) and U.S. Department of Agriculture (USDA) informati on.  |  GAO- 24-106732  
+a42 U.S.C. § 5306 note. Currently, Arizona, New Mexico, and Texas set aside 10 percent, while 
+California sets aside 5 percent. 
+b7 U.S.C. § 1926c(c)(1). According to USDA, annual appropriations for grants through the Water and 
+Waste Facility Loans and Grants to Alleviate Health Risks program are also provided specifically to 
+benefit colonias; accordingly, colonias have a dedicated grant funding source to benefit water and waste disposal projects. 
+c7 U.S.C. § 1926c(c)(2). According to USDA, funds for Individual Water and Wastewater grants are 
+transferred to and administered by Single Family Housing through the Home Repair Loan and Grants Program, and such funding is exclusively provided to households in eligible colonias. 
+d42 U.S.C. § 1479(f)(4). 
+e42 U.S.C. § 1479(f)(4). 
+ 
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 31]
+ 
+     
+Page 26 GAO -24-106732  Colonias Communities  For information on other federal programs that may benefit colonias but 
+do not provide targeted funding and for information on Congressionally 
+Directed Funding or Community Project Funding to colonias, see appendix III. 
+HUD provides annual allocations of CDBG funds to states for the purpose 
+of assisting vulnerable communities.
+34 Since fiscal year 1991, U.S.-
+Mexico border states have been required to set aside up to 10 percent of 
+their CDBG funding for activities that address the water, sewage, and 
+housing needs of colonias.35 This funding is referred to as the CDBG 
+colonias set -aside. From fiscal years 2020 through 2023 (the period of 
+our review), Arizona, New Mexico, and Texas set aside 10 percent, and 
+California set aside 5 percent, of state CDBG funding for colonias. Each 
+state develops priorities for funding colonias and criteria for selecting 
+grantees. See table 2 for obligations to projects in colonias for fiscal years 
+2020 through 2023. 
+Table 2: Annual Obligations to Projects in Colonias from HUD Community Development Block Grant Colonias Set -Aside, 
+Fiscal Years 2020 –2023  
+Program  Annual obligations  
+2020  2021  2022  2023  
+Community Development Block Grant colonias set -aside  $10,568,690  $10,739,032  $10,640,889  $10,546,966  
+Source: GAO analysis of Department of Housing and Urban Development (HUD) data.   |  GAO -24-106732  
+In all four border states, we visited projects that officials said were funded 
+by the CDBG colonias set-aside. For example, in Arizona we observed 
+rehabilitated single-family homes, sidewalks, streetlights, and water and wastewater infrastructure projects. In California, we observed a cooling 
+center to help colonia residents take shelter from extreme temperatures. In New Mexico, we observed drainage and infrastructure repairs in a colonia (see fig. 12). Texas allocated a portion of its set-aside to fund 
+ 
+34The CDBG colonias set -aside is part of the funding provided to states to distribute to 
+nonentitlement areas. Nonentitlement areas are generally smaller communities that do not 
+qualify as entitlement communities. Entitlement communities generally are principal cities of metropolitan statistical areas, other metropolitan cities with populations of at least 
+50,000, and qualified urban counties with populations of 200,000 or more (excluding the 
+populations of entitlement cities).  
+35Cranston-Gonzalez National Affordable Housing Act, Pub. L. No. 101-625, § 916, 104 
+Stat. 4079, 4396-4397 (1990) (codified as amended at 42 U.S.C. § 5306 note). For fiscal 
+year 1991, the set -aside was 10 percent. For each succeeding fiscal year, the set -aside 
+was a percentage, not to exceed 10 percent, as set by the Secretary of Housing and 
+Urban Development.   CDBG Set -Aside  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 32]
+ 
+     
+Page 27 GAO -24-106732  Colonias Communities  Colonia Self-Help Centers, one of which we visited (see fig. 12).36 These 
+centers provide colonia residents with assistance and education related to 
+housing, community development activities, and infrastructure 
+improvements. 
+Figure 12: Projects in Arizona and Texas Funded with Community Development Block Grant (CDBG) Colonias Set -Aside 
+Funds  
+ 
+ 
+ 
+36Counties in Texas can also apply to use colonias set -aside funds for planning and 
+construction in colonias.    
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 33]
+ 
+     
+Page 28  GAO -24-106732  Colonias Communities  Two USDA programs offer loans and grants to assist low -income rural 
+areas whose residents are experiencing a significant health risk due to 
+limited access to adequate water and wastewater systems. For these 
+programs, USDA is required to give preference to applicants residing in 
+colonias or to entities providing designated services to the residents of 
+colonias.37  
+• Water and Waste Facility Loans and Grants to Alleviate Health Risks. Through this program, USDA provides loans and grants for 
+potable water and waste disposal facilities that serve communities 
+whose residents face significant health risks due to a lack of adequate 
+affordable water supply systems or waste disposal facilities.  
+According to USDA officials, these projects generally fix issues found 
+in a water system, such as contamination, or after a water or 
+wastewater system fails.  This program is administered by the Water 
+and Environmental Programs office of the Rural Utili ties Service, 
+within USDA’s Rural Development Agency.  
+• Individual Water and Wastewater Grants. Through this program, 
+USDA provides grants to homeowners residing in communities facing significant health risks due to a lack of adequate affordable water 
+supply systems or waste disposal facilities.
+38 These grants are to 
+connect water supply and waste disposal systems to individual residences or to install plumbing and related fixtures that facilitate the 
+use of these systems. According to USDA, only residents of a colonia 
+are eligible for these grants . While this program is funded through 
+USDA’s Water and Environmental Programs, agency officials 
+indicated it is administered by USDA’s Single Family Housing’s Home 
+Repair Loans and Grants program. 
+ 
+37In 2009, we recommended that USDA revise its process for determining eligibility to 
+ensure that the agency only provides Section 306C Water and Waste Disposal Loans and 
+Grants program funds for projects that benefit colonias, as defined in federal statute,  and 
+to revise its priority process to better target limited funds to those projects meeting 
+statutory preference criteria. In July 2012, USDA fully implemented this recommendation 
+by modifying its regulations to allow for additional priority points to projects serving areas 
+with colonias that lack access to water or waste disposal systems and face significant 
+health problems. GAO, Rural Water Infrastructure: Improved Coordination and Funding Processes Could Enhance Federal Efforts to Meet Needs in the U.S. -Mexico Border 
+Region, GAO -10-126 (Washington. D.C.: Dec. 18, 2009).  
+387 U.S.C. § 1926c(b)(1). See also 7 U.S.C. § 1926c(a)(1). According to USDA, annual 
+appropriations for these grants are specifically for the purpose of supporting grants to 
+colonias. Loans and grants may be made directly to individuals or to individuals via a 
+designated entity, such as a rural water supply corporation. 7 U.S.C. § 1926c(b)(2). Furthermore, pursuant to 7 U.S.C. § 1926c(c), USDA must give preference to individuals 
+who reside in colonias.   USDA ’s Water and 
+Environmental Programs  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 34]
+ 
+     
+Page 29 GAO -24-106732  Colonias Communities  See table 3 for obligations to projects in colonias for these programs for 
+fiscal years 2020 through 2023. 
+Table 3: Annual Obligations to Colonias and Residents for Selected USDA Water and Environmental Programs, Fiscal Years 
+2020– 2023  
+Program  Annual obligations  
+2020  2021  2022  2023  
+Water and Waste Facility Loans and Grants to Alleviate 
+Health Risks   $27,330,790   $26,231,430   $32,895,461   $25,395,891  
+Individual Water and Wastewater Grants   $89,735   $122,160   $131,635   $87,900  
+Source: GAO analysis of U.S. Department of Agriculture (USDA) data.   |  GAO- 24-106732  
+ 
+In all four border states, we visited projects that were funded by the Water and Environmental programs and serve colonias. For example, in 
+Arizona, we visited a project that addressed contaminated water supplies 
+and extended water services to colonias. In California, we visited a project that is installing a new water pipeline and pumps to meet the 
+water needs of multiple communities. In New Mexico, we visited a water 
+treatment facility  that removes arsenic contamination from a colonia’ s 
+water supply (see fig. 13). In Texas, we visited a project to treat water and wastewater. 
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 35]
+ 
+     
+Page 30 GAO -24-106732  Colonias Communities  Figure 13: Project in New Mexico Funded by the U.S. Department of Agriculture ’s Water and Waste Facility Loans and Grants 
+to Alleviate Health Risks Program  
+ 
+ 
+To support underserved communities, including colonias, USDA is 
+required to set aside 5 percent of its annual lending authority for certain 
+rural housing programs, and colonias are to receive priority for these 
+USDA ’s Single Family Housing 
+Programs  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 36]
+ 
+     
+Page 31  GAO -24-106732  Colonias Communities  funds.39 These programs are administered by USDA ’s Rural Housing 
+Service, within its Rural Development Agency.  
+• Direct Home Loans. Through this program, USDA provides loans to 
+eligible homeowners to acquire, build, repair or renovate, or relocate 
+homes in eligible rural areas.40 
+• Home Repair Loans and Grants. Through this program, USDA 
+provides loans to eligible very low -income homeowners to repair or 
+improve their homes. In addition, this program provides grants to 
+homeowners age 62 or older to remove health and safety hazards or 
+to make the home accessible to household members with 
+disabilities.41 
+USDA estimated that it obligated about $103 million to projects in 
+colonias from fiscal years 2020 through 2023 (see table 4). USDA 
+provided estimates —rather than exact values —for these obligations 
+because it did not have reliable information from its loan and grant 
+origination system.42 (See below for discussion of data reliability issues 
+for these programs.) To estimate obligations to projects in colonias, 
+ 
+39This set -aside for targeted underserved areas applies to the USDA programs under 
+sections 502, 504, 514, 515, and 524 of the Housing Act of 1949, 63 Stat. 434, as 
+amended, according to USDA ’s interpretation of 42 U.S.C. § 1479(f)(4)(A). According to 
+the statute, priority for set -aside funding will be given to any application for assistance that 
+services the residents of a colonia and will be given in, or in close proximity to, these communiti es located in eligible states. 42 U.S.C. § 1479(f)(4)(B). According to USDA, the 
+section 514, 515, and 524 programs did not award funding to colonias between fiscal 
+years 2020 and 2023. The section 514 and 515 programs are administered by the Rural 
+Housing Service’ s Multifamily Housing programs, and the section 524 program is 
+administered by Single Family Housing programs. For more information on these 
+programs see app. III.  
+40USDA ’s Direct Home Loans program is also known as Single Family Direct Home 
+Loans, the Section 502 Direct Loan Program, or Rural Home Loans. This program is 
+authorized by section 502 of the Housing Act of 1949, 63 Stat. 434 (codified as amended 
+at 42 U.S.C. § 1472), and is implemented by 7 C.F.R. pt. 3550.  
+41USDA ’s Home Repair Loans and Grants is also known as Single Family Housing Repair 
+Loans and Grants, or the Section 504 Home Repair program. This program is authorized 
+by section 504 of the Housing Act of 1949, 63 Stat. 434 (codified as amended at 42 U.S.C. § 1474) , and is implemented by 7 C.F.R. pt. 3550.  
+42USDA uses the same systems to originate its loans and grants for the Direct Home Loan 
+and Home Repair Loan and Grant programs. USDA ’s Dedicated Loan Origination and 
+Servicing System, or origination system, expedites loan-making, standardizes information 
+collection and recordkeeping, and facilitates communication between field offices and the 
+Servicing and Asset Management Office. The system  tracks loans from application 
+through servicing using two interconnected systems: UniFi and LoanServ.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 37]
+ 
+     
+Page 32 GAO -24-106732  Colonias Communities  USDA digitally compared maps of areas where colonias are located with 
+loan and grant recipient addresses.  
+Table 4: Estimated Annual Obligations to Colonia Residents from Selected USDA Single Family Housing Programs, Fiscal 
+Years 2020– 2023  
+Program  Annual obligations  
+2020  2021  2022  2023  
+Direct Home Loans   $16,501,337   $19,657,745   $33,383,802   $25,723,481  
+Home Repair Loans and Grants   $2,032,341   $1,662,298   $2,164,116   $2,125,919  
+Source: GAO analysis of U.S. Department of Agriculture (USDA) data.   |  GAO- 24-106732  
+ 
+We also visited colonias that received funding from USDA ’s Single Family 
+Housing programs. For example, in Arizona, we observed a project where, according to officials, 10 lots will be redeveloped using USDA 
+funds. We also viewed single-family homes that, according to officials, had received USDA assistance in Arizona and New Mexico (see fig. 14).  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 38]
+ 
+     
+Page 33 GAO -24-106732  Colonias Communities  Figure 14: Project in an Arizona Colonia Funded by the U.S. Department of Agriculture ’s Single Family Housing Programs  
+ 
+To be eligible for targeted funding to colonias through HUD ’s and USDA ’s 
+programs, a community must meet the definition of a colonia, as shown in 
+table 5. Definitions of colonias vary between programs, but generally 
+include criteria relating to location, population size of the surrounding area, infrastructure conditions, and the date of recognition as a colonia. In 
+addition, applicants must meet agency standards and program 
+qualifications to receive funding.
+43 
+ 
+ 
+43For example, to qualify for USDA Single Family Housing loans, applicants must be 
+unable to obtain a loan from other sources, meet certain income requirements, and use 
+the loan only on eligible properties.   
+The Definition of a Colonia 
+Differs among HUD and 
+USDA Programs  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 39]
+ 
+     
+Page 34 GAO -24-106732  Colonias Communities  Table 5: Definitions of Colonias for Programs with Colonia s-Targeted Funding  
+Community  
+requirements  Description  HUD Community 
+Development Block 
+Grants colonias set -
+aside  USDA  
+Water and 
+Environmental 
+programs  Single Family 
+Housing  
+Location  Within 150 miles of the United States 
+and Mexico border and in Arizona, 
+California, New Mexico, or Texas   a  
+Within a metropolitan statistical area 
+with a population of 1 million or less   —  
+Infrastructure conditionsb Lack of potable water systems, 
+adequate sewage systems, and safe and sanitary housing     
+Lack of adequate roads and drainage  —  — 
+Official designation  State or county government 
+designation as a colonia  — c — 
+Date  Colonia must have existed before a 
+certain dated Nov. 28, 1990  Oct. 1, 1989  Nov. 28, 1990  
+ = Colonia eligibility requirement; — = Not a colonia eligibility requirement. 
+Source: GAO analysis of  statutes, regulations, and information from the Department of Housing and Urban Development (HUD) and the U.S. Department of Agriculture (USDA).  |  GAO -24-106732  
+aEligible areas include the entire county where more than half of the area of the county is within 150 
+miles of the U.S.-Mexico border. Additionally, the definition of a colonia in 7 C.F.R. § 1777.4 does not 
+specifically require the community be located in Arizona, California, New Mexico, or Texas. 
+bThe statutes governing HUD’s CDBG colonias set-aside and USDA’s Single Family Housing require 
+that a community be determined a colonia on the basis of objective criteria, which include but are not limited to the infrastructure conditions identified here. 
+cColonias eligible for USDA Water and Environmental programs can also be designated as colonias 
+by a federally recognized Tribe. 
+dNov. 28, 1990 was the date of enactment of the Cranston-Gonzalez National Affordable Housing Act, 
+Pub. L. No. 101-625, which is the date used in the statutory definitions of a colonia for the HUD CDBG program and USDA Single Family Housing programs. 42 U.S.C. § 5306 note, 42 U.S.C. § 1479(f)(8). USDA’s Water and Environmental programs use a different date as part of the definition of a colonia. 7 C.F.R. § 1777.4. 
+ 
+Eligibility requirements differ across the targeted programs due to 
+differences in statutory and regulatory definitions of a colonia; however, 
+the definitions of a colonia do have some similarities. For example, HUD ’s 
+CDBG colonias set-aside and USDA ’s Single Family Housing programs 
+both require colonias to be located within a metropolitan statistical area 
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 40]
+ 
+     
+Page 35  GAO -24-106732  Colonias Communities  (MSA) with a population of 1 million or less.44 In contrast, there are no 
+MSA -related population requirements in the colonia definition used by 
+USDA ’s two Water and Environmental programs.45 
+USDA did not have reliable information on actual obligations to colonias 
+through its Single Family Housing programs, as noted above.46 To 
+determine why this information was unreliable, we reviewed USDA ’s 
+processes to identify, record, and track assistance provided to colonias 
+and found areas for improvement. 
+USDA does not have agency -wide or state-specific guidance that directs 
+staff to identify if a Single Family Housing program loan or grant 
+application is for a property in a colonia. As described above, for a 
+community to meet the legal definition of a colo nia, several criteria must 
+be met. One criterion is that the community must be identified as a 
+“colonia” based on objective criteria, and according to USDA officials, the 
+Single Family Housing program relies on state and local governments to 
+make this determination. However, USDA does not have guidance for the 
+Single Family Housing programs to help staff determine whether a 
+community has been designated as a colonia by the state or local 
+government. Rather, the agency relies on its state and field staff to use their local knowledge and professional judgment to try to discern if a 
+community has been designated as a colonia by local officials , according 
+to USDA officials. USDA has issued no guidance to field staff to facilitate 
+this identification. In absence of guidance, USDA lacks assurance that 
+applications from colonias are being consistently or correctly identified by 
+staff.  
+ 
+44To be eligible as a colonia for USDA ’s Single Family Housing set -aside for targeted 
+underserved areas, the community cannot be in an MSA with a population exceeding 1 
+million. However, if an applicant is not located in a colonia, as statutorily defined, and is, 
+therefore, not eligible for the set-aside, the remaining funding for USDA Single Family 
+Housing programs (i.e., the remaining 95 percent) may be available to these applicants. 
+These applicants are required to meet all eligibility criteria for the program to which they 
+applied, including the requirement that the project be located in a rural area as defined in 
+42 U.S.C § 1490.  
+45USDA ’s two Water and Environmental programs  are subject to agency regulations 
+specifying that funding may go only to rural areas with a population of 10,000 or fewer 
+people.   
+46We determined that the obligation data from HUD for the CDBD colonias set -aside and 
+from USDA for its Water and Environmental programs were reliable for the purpose of 
+describing annual assistance provided to colonias for fiscal years 2020 –2023.  USDA ’s Single Family 
+Housing Programs Do Not 
+Have Reliable Data on 
+Assistance to Colonias  
+Identifying and Recording 
+Applications from Colonias  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 41]
+ 
+     
+Page 36  GAO -24-106732  Colonias Communities  Further, while USDA ’s system for processing loans and grants has a field 
+for staff to record if an application is from a colonia, USDA officials told us 
+that staff do not consistently use this feature. For this reason, USDA ’s 
+loan and grant applications are not consistently identified or recorded as being from colonias. As a result, USDA is not collecting reliable data on 
+the extent to which colonias have been assisted and may not be capable 
+of ensuring that the agency is ful filling the set-aside and priori ty for 
+colonias.  
+USDA ’s Strategic Plan for fiscal years 2022– 2026 states that the agency 
+will implement  and administer programs in a way that increases access 
+and program participation for underserved communities.
+47 It also states 
+that USDA will use data to understand who benefits from its programs 
+and to ensure that its investments are directed to persistently poor, 
+socially vulnerable, or high-need places. Furthermore, USDA is required 
+to prioritize set-aside fundi ng for any application for assistance that 
+services residents of colonias and will be used in, or in close proximity to, 
+these communities located in eligible states.  
+Although USDA has indicated that the level of funding received annually 
+has been sufficient to fund all applications for colonias, therefore enabling 
+USDA to meet its statutory obligations, there is no guarantee that funding 
+will remain at such levels. By developing procedures that direct staff to 
+identify and record whether Single Family Housing program applications 
+are for properties located in colonias, USDA would have greater assurance that its programs are making investments in colonias in 
+keeping with  the agency ’s goals to assist high-need places. Furthermore, 
+such a process would help USDA ensure it is meeting its statutory 
+directive to prioritize funding for projects in colonias as part of the set-
+aside for targeted underserved areas. 
+USDA has not been tracking the extent of its assistance to colonias 
+through the Direct Home Loan and Home Repair Loans and Grants 
+programs. For example, USDA officials initially provided us with data that showed a steep decline in obligations to colonias through these programs 
+from fiscal years 2020 through 2023. When asked to provide a reason for 
+the decline, USDA officials determined that the data, which were from their loan and grant origination system, were incorrect and likely 
+ 
+47As part of its 2022 –2026 Strategic Plan’ s Goal 5, USDA lists reducing barriers to access 
+as a priority for improving the quality of life in rural and tribal communities. U.S. 
+Department of Agriculture, Strategic Plan Fiscal Years 2022 –2026 (Washington, D.C.: 
+March 2022).  Tracking Assistance to 
+Colonias  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 42]
+ 
+     
+Page 37 GAO -24-106732  Colonias Communities  undercounted obligations to colonias. They also told us that staff do not 
+consistently record whether applications were for properties in colonias, as discussed above. Because USDA could not use its origination system 
+to reliably account for loans and grants to colonias, the agency produced 
+estimated obligations to colonias, which were four times higher compared with the data they initially provided.  
+USDA ’s Strategic Plan for fiscal years 2022– 2026 states that the agency 
+will use data to understand who benefits from USDA programs and 
+services.
+48 However, USDA ’s lack of awareness of its data reliability 
+issues for these programs indicates that the agency has not been using 
+its data to track the extent of its assistance to colonias and manage the 
+programs. Although USDA officials indicated that they met their statutory requirements related to colonias, the agency lacks a process for using 
+data to ensure that it is meeting its objectives. Without such a process, 
+USDA cannot understand the extent to which its programs are benefiting colonias.  
+ 
+ 
+  
+ 
+ 
+Colonias face several challenges in both accessing and subsequently 
+using federal assistance.
+49 These challenges relate to the characteristics 
+of colonias, project costs and requirements, and local government 
+ 
+48As part of its 2022 –2026 Strategic Plan’s Goal 5, USDA lists investing in underserved 
+communities as a priority for improving the quality of life in rural and tribal communities. 
+Using data to understand who benefits from USDA programs and services is an approach to ensure that USDA investments and services are directed to persistently poor, socially vulnerable, or high-need places. U.S. Department of Agriculture, Strategic Plan. 
+49The observations in this section are based on our site visits to all four border states 
+where we visited colonias that had been defined as such according to USDA ’s or HUD’s 
+definitions.   Colonias Face 
+Challenges in 
+Obtaining and Using 
+Federal Assistance, and Many May Soon 
+Become Ineligible  
+Challenges Relate to the 
+Characteristics of 
+Colonias, Project Costs, 
+and Capacity Issues  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 43]
+ 
+     
+Page 38  GAO -24-106732  Colonias Communities  capacity. Not all of these problems are unique to colonias, and many are 
+consistent with problems faced by rural communities more generally.  
+Rural or remote areas. Colonias are often located in rural areas that are 
+far away from existing infrastructure, particularly water and wastewater infrastructure. As a result, it may not be cost effective to connect them to 
+existing infrastructure. Studies have shown that for m any colonias, private 
+wells and on -site wastewater treatment are necessary.
+50 Advocacy 
+groups and some local officials also told us that because of the 
+remoteness, contractors may not be willing or able to work in these areas, which can increase costs. 
+For example, during a site visit near El Paso, Texas, we visited a colonia 
+located approximately 10 miles from existing water and wastewater 
+infrastructure. Local officials told us that connecting the community to 
+existing services was unlikely ever to be cost -effective. We also visited a 
+New Mexico colonia that relied solely on wells for its water because it was 
+separated from existing water infrastructure by a mountain range. 
+Language barrier and lack of trust in government. In most areas with 
+colonias, residents are overwhelmingly of Hispanic origin, and many 
+speak Spanish as their primary language. L ocal officials in all four states 
+told us that residents may face difficulties in communicating their needs to 
+government officials. They also may be concerned about potential negative effects from interacting with the government, such as adverse actions against undocumented family members. 
+Competing needs. A 2015 report by the Rural Community Assistance 
+Partnership found that many communities had multiple competing 
+infrastructure needs, including for housing and adequate water and 
+wastewater services.
+51 In addition, according to advocacy organizations, 
+colonias often lack the resources or expertise to apply for funding 
+themselves, so county governments typically take the lead. According to 
+local officials, the county often must prioritize which among its  colonias it 
+will help apply for funding and administer projects. 
+ 
+50For example, see Rural Community Assistance Partnership, U.S. -Mexico Border Needs 
+Assessment  (2015), and U.S. Department of Agriculture and Environmental Protection 
+Agency, U.S. Mexico Border Needs Assessment  (2014).  
+51Rural Community Assistance Partnership, U.S. -Mexico Border Needs Assessment  
+(2015).  Characteristics of Colonias  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 44]
+ 
+     
+Page 39  GAO -24-106732  Colonias Communities  Infrastructure costs. Infrastructure projects, especially water - and 
+wastewater -related projects, tend to be expensive, particularly in relation 
+to available federal funding. During our site visits, officials in all four states 
+told us that increasing costs have made it challe nging to complete 
+infrastructure projects for colonias. For example, in New Mexico, the 
+estimated cost of one flood-control project had increased from $12.7 
+million when originally designed in 2019 to $42 million in 2023, according 
+to local officials. In addition, members of water boards and local 
+government officials told us that infrastructure projects take years to plan. 
+As a result, initial budgets may be outdated by the time work begins. 
+Officials said this may result in the need to seek additional funding. For example, a water board we visited in Arizona was in the process of obtaining additional USDA funding to cover a project’ s rising prices.  
+Build America, Buy America Act requirement. Provisions of the Build 
+America, Buy America Act have increased costs or led to delays, 
+according to local officials we spoke with in all four border states.
+52 The 
+act states that all federal financial assistance can only be obligated for a 
+project if all iron, steel, manufactured products, and construction materials 
+used in the project are produced in the United States.53 Items meeting 
+these requirements, such as domestically produced manhole covers, 
+often cost significantly more or require significant lead time, the officials said.  
+Staff capacity. Grant programs can be complex, and local government 
+officials in all four border states told us they do not have the capacity to 
+apply for or administer all funding that may be available to assist colonias. 
+For example, officials at one county government said they did not have 
+sufficient staff to apply for available USDA funding because so many staff 
+resources were devoted to CDBG compliance. Officials at another locality 
+ 
+52The Build America, Buy America Act was enacted under Division G, Title IX of the 
+Infrastructure Investment and Jobs Act, Pub. L. No. 117-58, 135 Stat. 429, 1294-1309 
+(2021).  
+53Pub. L. No. 117-58, § 70914(a), 135 Stat. 429, 1298 (2021). The act defines these 
+requirements as a Domestic Content Procurement Preference. Pub. L. No. 117-58, § 
+70912(2), 135 Stat. 429, 1296 (2021). Waivers of the domestic content procurement 
+preference may be available.  Pub. L. No. 117-58, § 70914(b), 135 Stat. 429, 1298 (2021). 
+Furthermore, section 70911(15) of the act states that domestic content procurement preference policies apply to all federal government procurements and to various federal -
+aid infrastructure programs as of the date of enactment. Additionally, federal agencies 
+have a responsibility under the act to identify all domestic content procurement 
+preferences applicable to federal financial assistance. Pub. L. No. 117-58, §§ 70911(15), 
+70912(2), 70913(b), 135 Stat. 429, 1295- 1296, 1298 (2021).    Project Costs and 
+Requirements  
+Capacity Limitations  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 45]
+ 
+     
+Page 40  GAO -24-106732  Colonias Communities  similarly cited lacking sufficient staff to apply for additional federal projects 
+and comply with complex agency requirements. 
+Predevelopment costs. Local government officials in all four states 
+noted that certain predevelopment costs may not be eligible for grant 
+funding. For example, officials in one state told us that while CDBG 
+projects require environmental planning, CDBG funds cannot be used to 
+pay for such studies.54 As a result, local governments may need to 
+finance these costs themselves or pursue additional grants.  
+Federal agencies have taken steps to mitigate certain challenges that 
+colonias face in accessing and using federal assistance. For example: 
+• Coordination to leverage funds. To help address challenges related 
+to project costs, some federal agencies have coordinated on projects 
+to leverage one another ’s funds. For example, USDA has partnered 
+with the Environmental Protection Agency to jointly provide funding for 
+wastewater projects through the Closing America’ s Wastewater 
+Access Gap Program. Further, USDA sometimes provides additional grant and loan funds to assist with cost overruns in projects it 
+originally funded, according to USDA and local officials.
+55 
+• Technical assistance or additional grants. To help address issues 
+related to lack of capacity or resources for predevelopment, federal agencies have also provided technical assistance or grants. For 
+example, recipients of USDA funding in all four states said USDA staff 
+offer assistance in filling out applications for federal funding. These 
+recipients also noted they had effective working relationships with 
+HUD, USDA, and  other federal agencies. They also cited the agency 
+staffs ’ willingness to answer questi ons or provide technical 
+assistance. Further, USDA provides technical assistance by funding a 
+Technical Assistance and Training program. This program helps 
+communities identify and plan for community needs and subsequently 
+prepare applications for financial assistance. Recipients also 
+ 
+54According to HUD officials, environmental planning costs are not disallowed from CDBG 
+funding. However, many states do not allow these costs to be funded using CDBG funds 
+because the environmental planning process may reveal that a project cannot move 
+forward.  
+55During a site visit in New Mexico, we learned that there had been some delays in 
+USDA ’s processing of applications that would allow colonias that had USDA Water and 
+Environmental Program loans to obtain additional assistance from other parties. However, 
+the agency subsequently took actions to address this issue, such as ensuring local 
+officials had necessary authority to approve these applications and establishing a new 
+formal tracking system for such requests.  Federal Agencies Have 
+Taken Steps to Mitigate 
+Some of These 
+Challenges  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 46]
+ 
+     
+Page 41  GAO -24-106732  Colonias Communities  discussed obtaining grant funding from one agency, such as the 
+Economic Development Administration, to prepare studies required by 
+another agency, such as HUD.  
+• Networks to provide local assistance. To improve infrastructure 
+and community development in rural areas, the federal government 
+established the Rural Partners Network in 2022. This network consists 
+of federal staff placed in more than 25 rural communities, including 
+several located in areas with colonias. These staff are to work with 
+local officials to help them navigate and access federal resources 
+across multiple agencies. For example, in southern New Mexico, the 
+Rural Partner s Network identified local needs, such as for improved 
+flood control and water and wastewater services, that affect colonias. The Rural Partners Network has also hosted events in other states 
+where it brought stakeholders together to discuss federal funding 
+opportunities. 
+• Collaboration with states. USDA and HUD have ongoing 
+collaboration activities to help identify key needs and facilitate access 
+to federal assistance for states and stakeholders. For example, HUD 
+provides feedback to states on their consolidated plans, which are created every 3 to 5 years, and their annual action plans. These plans 
+are used to identify state priorities for CDBG funds. HUD also meets annually with the border states to learn about the key needs of their 
+colonias, according to HUD officials. HUD has ongoing monitoring 
+activities to determine whether CDBG funds are being used to help 
+address these needs. USDA collaborates with the states through 
+initiatives like the Rural Partners Network and Closing America’ s 
+Wastewater Access Gap, a joint program with the Environmental Protection Agency, to identify states ’ challenges and coordinate 
+federal assistance to address them.
+56 
+ 
+56The Closing America’ s Wastewater Access Gap program provides no-cost technical 
+assistance to communities with failing septic systems or without existing wastewater 
+infrastructure. As part of this effort, the program conducts a community wastewater 
+assessment, which brings tog ether state, tribal, and local collaborators and technical 
+experts to assess the current status of wastewater infrastructure in participating 
+communities.   
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 47]
+ 
+     
+Page 42  GAO -24-106732  Colonias Communities  Population growth in the Southwest has led to a situation where certain 
+communities have or will become ineligible for the CDBG colonias set-
+aside under the current CDBG definition of a colonia.57 As previously 
+noted, to meet the definition of a colonia and be eligible for the program, a community must be located within an MSA of 1 million people or less.
+58 
+Population growth has resulted in some MSAs with colonias exceeding 
+this population threshold. 
+For example, colonias in Pinal County, Arizona, immediately south of 
+Phoenix, were eligible for the CDBG colonias set -aside in 1990, 
+according to local officials. However, local officials stated that in 2000 the 
+county was included in the Phoenix MSA, whose population exceeds 1 
+million. As a result, Pinal County became ineligible for the CDBG colonias 
+set-aside despite having several communities  that otherwise met the 
+statutory definition of a colonia and were designated as such by the local 
+government, acc ording to local officials . During our site visit, we observed 
+that these communities were in rural areas and shared similar needs and 
+characteristics of communities we visited that still met the CDBG 
+definition of colonia.  
+Some communities in the Tucson, Arizona, MSA will also soon lose 
+eligibility for CDBG colonias set-aside funding. That MSA exceeded 1 
+million people in the 2020 Census, and HUD officials stated they are 
+currently in the process of decertifying it for futur e awards.59 According to 
+ 
+57USDA ’s Single Family Housing programs, which contain a set -aside and colonia priority 
+for such funding, includes a similar MSA requirement in its colonia definition. Accordingly, 
+certain communities will become ineligible for the colonia priority over the next several 
+years given the Southwest ’s population growth. According to USDA, however, this 
+program has been historically undersubscribed, and loans in areas with colonias are 
+frequently funded without the need for set -aside funds or use of the colonia s priority. 
+Therefore, colonias are not at risk of losing Single Family Housing Program funds at this 
+time. If demand were to increase for this program, the MSA requirement could present limitations, as we discuss herein.  
+58As relevant here, one criterion required to meet the CDBG statutory definition of 
+“colonia” is that the community be in the “United States -Mexico border region. ” The statute 
+defines the United States -Mexico border region as “the area of the United States within 
+150 miles of the border between the United States and Mexico, except that the term does 
+not include any standard metropolitan statistical area that has a population  exceeding 
+1,000,000. ” 42 U.S.C. § 5306 note.  
+59HUD relies on the states to certify communities as colonias. HUD  is currently developing 
+a process to review the populations of MSAs after each census to determine if the 
+population of an MSA exceeds 1 million. If it does exceed this threshold, HUD will send  a 
+letter to the state stating that CDBG awards to colonias in that MSA will no longer count 
+toward the CDBG colonias set -aside.   Many Communities Will 
+Soon Become Ineligible 
+for the CDBG Colonias 
+Set-Aside under the 
+Current Statutory 
+Definition of a Colonia  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 48]
+ 
+     
+Page 43  GAO -24-106732  Colonias Communities  HUD officials, the agency explored legal interpretations that would allow 
+the eight communities otherwise meeting the colonia definition to remain 
+eligible. However, HUD officials concluded that the Cranston-Gonzalez 
+National Affordable Housing Act, which established the colonia definition 
+for the CDBG set-aside, does not allow these communities to remain 
+eligible.  
+HUD officials expect that the El Paso and McAllen MSAs, both in Texas, will exceed 1 million in the future. These two MSAs contain some of the 
+highest numbers of colonias. We estimate that a total of 1,222  colonias 
+will become ineligible over the next few years in these two MSAs. This 
+represents nearly 60 percent of all the colonias that HUD has identified.
+60 
+Figure 15 illustrates the border region areas that have lost or will likely 
+lose eligibility for CDBG set-aside funding in the near future. Importantly, 
+these communities will still be eligible to apply for CDBG funds, but will no 
+longer be eligible for the targeted set -aside.  
+ 
+60This analysis is based exclusively on the inability of communities to meet the 
+requirement of being in an MSA of 1 million or less. Existing colonias could be decertified 
+for other reasons, such as no longer meeting additional definitional criteria for a colonia.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 49]
+ 
+     
+Page 44 GAO -24-106732  Colonias Communities  Figure 15: Colonias That May Lose Eligibility for Community Development Block Grant (CDBG) Colonias Set -Aside Funding  
+ 
+aThe Tucson, Arizona, metropolitan statistical area exceeded 1 million people in the 2020 Census, 
+and the Department of Housing and Urban Development is currently in the process of decertifying it 
+for future CDBG colonias set-aside awards. 
+bThis figure reflects the location of colonias included in Department of Housing and Urban 
+Development and University of New Mexico data as of 2010. 
+ 
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 50]
+ 
+     
+Page 45 GAO -24-106732  Colonias Communities  We have previously reported limitations of using MSAs to define rural or 
+urban areas.61 Specifically, we reported that MSAs were not intended to 
+provide the basis for urban and rural classifications, and that MSAs can 
+contain both urban and rural areas. We noted that MSA eligibility requirements had resulted in dissimilar determinations for what appeared 
+to be similar areas. This finding is consistent with our observations that 
+locally designated colonias in Pinal County, Arizona, were similar to those we observed in other areas that remain eligible as colonias for other 
+targeted assistance. Specifically, the Pinal County colonias we observed 
+are located in a rural area surrounded by farmland, and they appeared to have significant needs, such as poor -quality housing, deferred 
+maintenance, and drainage issues (see fig. 16).  
+Figure 16: Conditions in and around a Colonia in Pinal County, Arizona, That Is Included in the Phoenix Metropolitan 
+Statistical Area 
+ 
+ 
+61GAO, Rural Housing: Changing the Definition of Rural Could Improve Eligibility 
+Determinations,  GAO-05-110 (Washington, D.C.: Dec. 3, 2004). In this report, we 
+recommended that Congress consider eliminating the MSA criterion for Rural Housing 
+Service housing programs and that Congress recommend that the Rural Housing Service 
+use density -based measures as a basis for its eligibility decisions. This matter for 
+congressional consideration was implemented.  
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 51]
+ 
+     
+Page 46  GAO -24-106732  Colonias Communities  We also previously noted that there are alternatives to using MSAs to 
+identify rural and urban areas.62 These include alternative measures such 
+as the Census Bureau’ s urbanized areas and urban clusters definitions. 
+These are density -based measures that provide finer -scale information. 
+These measures do not necessarily follow political boundaries and they 
+define an area as rural by exclusion —that is, the measures view all areas 
+not already identified as urbanized areas or urban clusters as “rural. ” At 
+the time of that 2004 report, we observed that this definition greatly increased the number of people who were defined as residing in a rural 
+area compared with using a determination based on an MSA. 
+HUD officials expressed additional concerns about the CDBG statutory 
+definition of a colonia. For example, HUD officials stated the definition 
+was limited because it excludes communities that did not exist prior to 
+1990 but have other relevant characteristics, such as water, sewer, and 
+housing challenges. HUD officials also noted the definition excludes communities located outside of the border region. This view was shared 
+by one advocacy organization, whose representatives noted that there 
+are many areas of the country facing housing conditions similar to those 
+of colonias. We did not evaluate the effect of statutory provisions other than those related to the MSA in which a colonia is located.  
+When the Cranston-Gonzalez National Affordable Housing Act was 
+enacted in 1990, the statute made many colonias with significant needs 
+eligible for targeted assistance through CDBG set-aside funding. 
+However, the MSA requirement, necessary to meet the CDBG definition 
+of colonia, has not been updated since the set-aside ’s enactment in 1990, 
+and the population in the Southwest has changed significantly since that 
+time.
+63 Colonia communities that lose targeted funding will remain eligible 
+for CDBG entitlement funds (funds that are not part of the colonias set-
+aside), but they will no longer have access to funds that were designated 
+to address their specific needs.64 
+ 
+62GAO -05-110.  
+63As described above, the MSA requirement is contained in the definition of “United 
+States -Mexico Border Region”  in 42 U.S.C. § 5306 note. Thus, changes to the MSA 
+requirement could be addressed through a change to the definition of “colonia, ” the 
+definition of “United States -Mexico Border Region, ” or through other methods.  
+64The CDBG program provides funding directly to metropolitan cities and urban counties, 
+known as entitlement communities, and to states for distribution to nonentitlement 
+communities. However, these funds are to be used to address needs throughout the 
+munici pality and are not specifically targeted to colonias.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 52]
+ 
+     
+Page 47 GAO -24-106732  Colonias Communities  Given the limitations in using MSAs as a measure of rurality and the 
+increases in population in the Southwest since 1990, the MSA criterion that is part of the CDBG definition of a colonia may no longer be an 
+appropriate measure of the needs of these communities. Without updated 
+legislation, colonias that currently have needs and circumstances similar 
+to what they had in 1990 may not have access to targeted CDBG assistance, which may be inconsistent with Congress ’s original intent.  
+Congress enacted legislation in the early 1990s to address conditions in 
+colonias by providing targeted funding, including CDBG funds. But with 
+shifts in population since that time, many colonias soon will no longer meet the CDBG statutory definition of a colonia, which requires a 
+community to be located in an MSA with a population of 1 million or less. 
+Revising this MSA requirement by, for example, adopting some other measure of rurality could help preserve the eligibility of many communities that were originally intended to be served by the set-aside. 
+In addition, USDA has been legislatively tasked with helping colonias, 
+including through targeted funding in its Single Family Housing programs, 
+and the agency has set corresponding goals. However, due to the agency ’s inability to consistently identify which applications are for colonia 
+projects, it does not have reliable information on the program ’s effect on 
+these communities. By implementing procedures to identify and record applications related to properties in colonias, USDA will be better able to 
+ensure its investments align with agency goals and statutory 
+requirements. Further, using data to track program usage in colonias would enhance the agency ’s understanding of how effectively these 
+programs serve colonias and inform management to aid decision-making in support of these communities. 
+Given population growth in the Southwest, Congress should consider 
+revising the statutory requirement that, in order to be a colonia eligible for the CDBG set-aside, an identifiable community be located within an MSA with a population of 1 million or less. (Matter for Consideration 1)  
+ We are making the following two recommendations to USDA:  
+The Secretary of Agriculture should ensure that the Rural Housing 
+Service Administrator develops and implements procedures for identifying 
+and recording whether applications for Single Family Housing programs are for properties in colonias. (Recommendation 1) Conclusions  
+Matter for 
+Congressional 
+Consideration  
+Recommendations for 
+Executive Action  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 53]
+ 
+     
+Page 48 GAO -24-106732  Colonias Communities  The Secretary of Agriculture should ensure that the Rural Housing 
+Service Administrator uses data to track the extent to which Single Family Housing programs serve colonias and to inform its management of the programs. (Recommendation 2)  
+We provided a draft of this report to HUD and USDA for review and 
+comment. Both agencies  provided us with technical comments , which we 
+incorporated as  appropriate. USDA said it generally agreed with our 
+findings and recommendations.  
+We are sending copies of this report to the appropriate congressional 
+committees, the Acting Secretary of Housing and Urban Development, 
+the Secretary of Agriculture, and other interested parties. In addition, the report is available at no charge on the GAO website at https://www.gao.gov . 
+If you or your staff have any questions about this report, please contact 
+Jill Naamane at (202) 512-8678 or naamanej@gao.gov . Contact points 
+for our Offices of Congressional Relations and Public Affairs may be found on the last page of this report. GAO staff who made key contributions to this report are listed in appendix IV. 
+ 
+Jill Naamane Director, Financial Markets and Community Investment 
+Agency Comments  
+ 
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 54]
+ 
+Appendix I: Objectives, Scope, and Methodology  
+    
+Page 49 GAO -24-106732  Colonias Communities  This report (1) describes conditions in colonias, (2) examines federal 
+assistance available to colonias, and (3) examines challenges that may affect colonias in obtaining and using federal assistance and federal efforts to mitigate those challenges.  
+To address all objectives, we visited 24 colonias in Arizona, California, 
+New Mexico, and Texas to observe conditions and projects funded by 
+federal programs. We identified these colonias by reviewing lists of projects funded by the Department of Housing and Urban Development 
+(HUD) and the U.S. Department of Agriculture (USDA) during fiscal years 
+2020– 2023 to identify local governments and other entities that had 
+recently obtained funding for colonias. We then judgmentally selected 24 
+colonias that (1) reflected a mix of incorporated and unincorporated 
+areas, (2) reflected a mix of types and amounts of federal funding, (3) had been identified in our interviews with state officials and other stakeholders, and (4) had received recent federal funding.  
+During site visits, we conducted interviews with local government officials, 
+grant recipients, local advocacy organizations (if available), and USDA 
+field staff to discuss conditions in colonias, federal assistance to these communities, and challenges to receiving federal assistance. We also 
+made physical observations of completed and ongoing federal projects, 
+and we observed conditions in the wider community. Information we obtained from these site visits is not generalizable to all colonias. In 
+addition to site visits, we also interviewed the following to learn about 
+conditions in colonias, federal assistance to these communities, and challenges to receiving federal assistance:  
+• federal agencies, including HUD, USDA, the Environmental Protection 
+Agency (EPA), and the Federal Housing Finance Agency;  
+• state offices, including the Arizona Department of Housing, California Department of Housing and Community Development, New Mexico 
+Department of Finance and Administration, and the Texas 
+Department of Agriculture; 
+• local government officials, including officials from Arizona in Pinal County, Nogales, Yuma, and Bisbee; from California in Imperial County; from New Mexico in the Southwest New Mexico Council of 
+Governments and Grant and Luna Counties; and from Texas in 
+Cameron, Hidalgo, and El Paso Counties; and  
+• representatives from national and local nonprofit organizations such as the Council of State Community Development Agencies, the Housing Assistance Council, and the Rural Community Assistance Appendix I: Objectives, Scope, and 
+Methodology  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 55]
+ 
+Appendix I: Objectives, Scope, and Methodology  
+    
+Page 50  GAO -24-106732  Colonias Communities  Partnership, and representatives from Proyecto Azteca who work in 
+colonias.  
+For our first objective, we performed a geographic analysis of local and 
+national -level data sets. Specifically, to identify the geographic location of 
+colonias, we analyzed HUD geospatial data as of 2010, which were the 
+most recent available data.1 Similar geospatial data were not available for 
+colonias eligible for assistance through USDA programs. The dataset 
+from HUD included XY coordinates of these colonias but did not include 
+the specific boundaries of these communities . We verified these data 
+through interviews with HUD officials and corroboration of locations with 
+data from the University of New Mexico. Due to these limitations, we used 
+these data to identify the census tracts in which colonias were located, 
+and we used these census tracts as our geographic unit of analysis (i.e., 
+areas with colonias) (see fig. 17).  
+ 
+ 
+ 
+1HUD officials told us they collected these data from the relevant state agencies in 
+Arizona, California, New Mexico, and Texas in 2009 and 2010. Officials said this dataset 
+would not reflect any communities that were designated as colonias in these states after 2010.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 56]
+ 
+Appendix I: Objectives, Scope, and Methodology  
+    
+Page 51 GAO -24-106732  Colonias Communities  Figure 17: Groups of Census Tracts Used as Units of Analysis  
+ 
+aAreas with colonias are census tracts that contain one or more colonias included in Department of 
+Housing and Urban Development or University of New Mexico data as of 2010. 
+bOther border regions are census tracts within 150 miles of the U.S.-Mexico border in each state that 
+do not contain one or more colonias, as identified in Department of Housing and Urban Development 
+or University of New Mexico data as of 2010. 
+cThis figure reflects the location of colonias included in Department of Housing and Urban 
+Development or University of New Mexico data as of 2010. 
+ 
+To describe economic and housing conditions in areas with colonias, we 
+analyzed data from the Census Bureau’ s American Community Survey 
+2017– 2021 5-year estimates. We also analyzed these data for the other 
+border regions in each state and the state overall to provide context for 
+our analysis.2 
+Because the American Community Survey is an ongoing survey based on 
+a probability sample, we accounted for sampling error associated with 
+these survey estimates by using the standard errors provided with these estimates. When deriving new estimates based on American Community 
+Survey estimates —such as by combining census -tract-level estimates or 
+obtaining percentages or ratios of estimates —we obtained the standard 
+ 
+2Other border regions included census tracts in each state that were within 150 miles of 
+the U.S. -Mexico border, were not located within a metropolitan statistical area whose 
+population exceeded 1 million, and did not contain any colonias.  
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 57]
+ 
+Appendix I: Objectives, Scope, and Methodology  
+    
+Page 52  GAO -24-106732  Colonias Communities  errors in one of two ways. We used American Community Survey 
+variance replicate tables  when they were available, and otherwise we 
+used American Community Survey approximation methodology. To 
+determine whether estimates differed, we conducted statistical tests at 
+the 95 percent confidence level based on each estimate’ s standard error. 
+To analyze exposure to natural hazards in areas with colonias, we 
+selected four of the seven natural hazards identified in a prior GAO report 
+as being likely to be exacerbated by climate change in the United States.3 
+The four hazards are heat, wildfires, flooding, and storm surges from 
+hurricanes.4 
+For our selected hazards, we used national -level data from federal 
+agencies that we determined to be the most appropriate.5 Data sources 
+for each of the hazards we analyzed are as follows: 
+• Heat. To analyze exposure to heat, we used data from the fourth 
+National Climate Assessment on the projected annual exposure to 
+maximum temperatures in the midcentury (i.e., 2036– 2065).6 
+ 
+3GAO, Nuclear Power Plants: NRC Should Take Actions to Fully Consider the Potential 
+Effects of Climate Change, GAO -24-106326  (Washington, D.C.: Apr. 2, 2023). To identify 
+and select national -level datasets in this report, we used information from the fourth 
+National Climate Assessment. The fifth National Climate Assessment was released on 
+Nov. 14, 2023, after we had obtained and analyzed the hazard datasets. We reviewed 
+relevant sections from the fifth National Climate Assessment and did not identify major 
+differences in the predicted or projected trends for the selected natural hazards. U.S. 
+Global Change Research Program, Fifth National Climate Assessment  (Washington, D.C.: 
+2023), and Fourth National Climate Assessment  (Washington, D.C.: 2018 ). 
+4The three natural hazards we excluded from our analysis were cold, sea level rise, and 
+drought. We did not analyze data on (1) cold because the National Climate Assessment stated that the areas with colonias either already had or will see a reduction in ex treme 
+cold events, so we chose to focus our analysis on heat; (2) sea level rise because a 
+relatively small percentage of the areas with colonias are coastal; and (3) drought 
+because we were unable to identify national -level geospatial data that were both relevant 
+to areas with colonias and sufficiently reliable for our purposes.  
+5To identify the best available federal -level hazard data, we relied on a prior GAO report.  
+6Specifically, we analyzed the projected change in the annual number of days with a 
+maximum temperature greater than 90 degrees Fahrenheit. These projections are based on both low - and high-emission scenarios that incorporate different assumptions about 
+future reductions in greenhouse gas emissions.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 58]
+ 
+Appendix I: Objectives, Scope, and Methodology  
+    
+Page 53  GAO -24-106732  Colonias Communities  • Wildfire. To analyze exposure to wildfire hazard, we used 2023 
+Wildfire Hazard Potential data from the U.S. Forest Service.7 For 
+reporting purposes, we grouped wildfire hazard potential into two 
+categories: medium and high/very high.8 
+• Flooding. To analyze exposure to flood hazard, we used 2023 data 
+from the Federal Emergency Management Agency ’s National Flood 
+Hazard Layer. For reporting purposes, a census tract is at high risk if it intersects with a 100-year flood plain and medium risk if it intersects 
+with a 500-year flood plain. We did not assess flood risk in some 
+tracts because we found that they did not intersect with any flood hazard data, which meant we could not assess their flood risk. These 
+tracts included five in New Mexico ( because 90 percent of these tracts 
+did not have flood plain data) and all tracts in Texas (because over 50 
+percent of tracts in Texas did not intersect with any flood hazard 
+areas). 
+• Hurricane storm surge. To analyze exposure to hurricane storm 
+surge, we used 2022 data from the National Oceanic and Atmospheric Administration’ s Sea, Lake, and Overland Surges from 
+Hurricanes model. For reporting purposes, we grouped hurricane risk 
+into two categories: at risk and not at risk.  
+We assessed the reliability of the fourth National Climate Assessment 
+climate projections data we used to analyze heat exposure by (1) 
+interviewing National Oceanographic and Atmospheric Administration 
+officials knowledgeable about the data and (2) reviewing existing information about the data and the system that produced them. We 
+determined the data to be reliable for our purposes. 
+To assess the reliability of the Federal Emergency Management Agency ’s 
+National Flood Hazard Layer, the National Oceanographic and 
+Atmospheric Administration’ s data on Sea, Lake, and Overland Surges 
+from Hurricanes, and the U.S. Forest Service’ s Wildfire Hazard Potential 
+data, we reviewed a prior GAO data reliability assessment for a report 
+using the same data.
+9 We determined the data to be reliable for the 
+purpose of describing the risk of heat, wildfire, flooding, and hurricane 
+ 
+7The primary intended use of the data on wildfire potential is to identify priority areas 
+where wildfire may be difficult to contain. The data do not explicitly show wildfire threat or 
+risk. 
+8“High” and “very high” wildfire hazard potentials correspond to areas at the 85 percentile 
+or greater of wildfire hazard potential.  
+9GAO -24-106326.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 59]
+ 
+Appendix I: Objectives, Scope, and Methodology  
+    
+Page 54  GAO -24-106732  Colonias Communities  storm surge to areas with colonias. Then, through interviews and email 
+correspondence with officials from the National Oceanographic and 
+Atmospheric Administration, the Federal Emergency Management 
+Agency, and the U.S. Forest Service, we ensured that these data 
+remained appropriate and reliable, considering any subsequent updates 
+or changes made to the data. 
+To describe the conditions of water and wastewater infrastructure in 
+colonias, we reviewed academic literature and government reports. To 
+identify existing literature and reports, we conducted searches of various 
+databases, such as ProQuest, EBSCO, Scopus, and Dialog, for studies 
+describing access to water and wastewater infrastructure in colonias 
+published in the previous 10 years. A GAO methodologist reviewed 
+methodologies of selected studies to assess the overall quality of the 
+studies ’ findings. 
+For our second objective, we reviewed relevant literature, laws and regulations, and agency materials to identify federal programs that 
+provided assistance to communities with colonias. We reviewed materials 
+from 14 agencies, including EPA, the Federal Housing Finance Agency, and the Department of the Treasury. We then established and applied 
+criteria to determine which programs provided targeted assistance to 
+colonias. Our criteria required that programs had to set aside a portion of funding for projects i n colonias or prioritize funding to projects in 
+colonias.
+10 The programs had to be active in all four border states 
+between fiscal years 2020 and 2023. For each targeted program, we then 
+analyzed legislation, agency regulations, and agency documentation on 
+how funds can be used and program eligibility requirements . In appendix 
+III, we describe federal programs with special features that may benefit 
+colonias ; these programs met some but not all of our criteria for  targeted 
+funding.  
+From HUD and USDA, we obtained data on annual obligations to 
+colonias from fiscal years 2020 through 2023 for each of the five targeted programs we identified. We assessed the reliability of the data by 
+reviewing relevant documentation, interviewing knowledgeable agency 
+officials, and performing manual data testing. We determined the data from HUD ’s Community Development Block Grant program and USDA ’s 
+ 
+10Funding may be prioritized to colonias by requiring the agency to review and process 
+applications for projects to colonias before other applications or by adding additional 
+points for application scoring to projects from colonias.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 60]
+ 
+Appendix I: Objectives, Scope, and Methodology  
+    
+Page 55  GAO -24-106732  Colonias Communities  Water and Environmental programs were sufficiently reliable for the 
+purpose of describing obligations for targeted programs. 
+In response to our follow -up questions, USDA officials determined that 
+the initial Single Family Housing program obligation data they provided to 
+us from their origination system were unreliable, as discussed in this 
+report. Subsequently, USDA estimated obligations to colonias by 
+comparing digital maps of areas with colonias to the addresses of loan and grant recipients. We determined the estimated Single Family Housing 
+program data were sufficiently reliable for the purpose of describing 
+obligations to col onias. In addition, due to data reliability concerns, we 
+assessed USDA Single Family Housing processes to identify and track 
+data against statutory and agency requirements, such as USDA ’s 
+Strategic Plan for Fiscal Years 2022– 2026.
+11 
+In addition, we also obtained data from HUD, USDA, and EPA on 
+Congressionally Directed Funding and Community Project Funding to 
+colonias (described in app. III).12 HUD provided data on Congressionally 
+Directed Funding/Community Project Funding to counties with colonias, 
+and USDA and EPA provided data on funding specifically to colonias. We 
+determined the Congressionally Directed Funding and Community Project 
+Funding data from HUD, EPA, and USDA were sufficiently reliable for the 
+purpose of describing this funding.  
+For our third objective, we reviewed relevant literature and interviewed the parties described above. To determine the potential effect of 
+population changes on communities ’ eligibility for targeted programs, we 
+reviewed the s tatutory eligibility requirements for colonias for HUD and 
+USDA programs, analyzed geographic data from HUD on the 
+communities that, according to HUD, are currently eligible as colonias 
+under its definition, and reviewed relevant legislation. We discussed 
+federal efforts to mitigate challenges to obtaining funding during the 
+interviews described above. 
+ 
+11U.S. Department of Agriculture, Strategic Plan Fiscal Years 2022– 2026 (Washington, 
+D.C.: March 2022).  
+12As part of the fiscal year 2022 and 2023 appropriations processes, Members of 
+Congress could request provisions designating an amount of funds to a particular 
+recipient —such as a local government or nonprofit organization—for a specific project. 
+These prov isions are called “ Congressionally Directed Spending” in the U.S. Senate and 
+“Community Project Funding” in the House of Representatives.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 61]
+ 
+Appendix I: Objectives, Scope, and Methodology  
+    
+Page 56  GAO -24-106732  Colonias Communities  We conducted this performance audit from March 2023 to September 
+2024 in accordance with generally accepted government auditing 
+standards. Those standards require that we plan and perform the audit to 
+obtain sufficient, appropriate evidence to provide a reasonable basis for 
+our findings and conclusions based on our audit objectives. We believe 
+that the evidence obtained provides a reasonable basis for our findings and conclusions based on our audit objectives.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 62]
+ 
+Appendix II: Selected Characteristics of Colonias and Areas with Colonias in Each of the Four Border States  
+    
+Page 57 GAO -24-106732  Colonias Communities  This appendix provides information on selected characteristics of colonias 
+and areas with colonias in Arizona, California, New Mexico, and Texas (see figs. 18 –21).  Appendix II: Selected Characteristics of 
+Colonias and Areas with Colonias in Each of 
+the Four Border States  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 63]
+ 
+Appendix II: Selected Characteristics of Colonias and Areas with Colonias in Each of the Four Border States  
+    
+Page 58 GAO -24-106732  Colonias Communities  Figure 18: Selected Characteristics of Colonias and Areas with Colonias in Arizona 
+ 
+Totals may not equal 100 percent due to rounding. 
+aThis figure reflects the location of colonias included in HUD data as of 2010. 
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 64]
+ 
+Appendix II: Selected Characteristics of Colonias and Areas with Colonias in Each of the Four Border States  
+    
+Page 59  GAO -24-106732  Colonias Communities  bWe did not include the amount of targeted assistance provided to colonias through USDA ’s Single 
+Family Housing programs because we found that USDA ’s records for actual obligations to colonias 
+were not reliable. 
+cAreas with colonias are census tracts that contain one or more colonias included in HUD data of 
+2010.  
+dOther border regions are census tracts within 150 miles of the U.S.- Mexico border that do not 
+contain one or more colonias, as identified in HUD data as of 2010.  
+eWe defined overcrowding as more than one person per room.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 65]
+ 
+Appendix II: Selected Characteristics of Colonias and Areas with Colonias in Each of the Four Border States  
+    
+Page 60 GAO -24-106732  Colonias Communities  Figure 19: Selected Characteristics of Colonias and Areas with Colonias in California 
+ 
+Totals may not equal 100 percent due to rounding. 
+aThis figure reflects the location of colonias included in HUD data as of 2010. 
+ 
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 66]
+ 
+Appendix II: Selected Characteristics of Colonias and Areas with Colonias in Each of the Four Border States  
+    
+Page 61  GAO -24-106732  Colonias Communities  bWe did not include the amount of targeted assistance provided to colonias through USDA ’s Single 
+Family Housing programs because we found that USDA ’s records for actual obligations to colonias 
+were not reliable. 
+cAreas with colonias are census tracts that contain one or more colonias included in HUD data as of 
+2010.  
+dOther border regions are census tracts within 150 miles of the U.S.- Mexico border that do not 
+contain one or more colonias, as identified in HUD data as of 2010.  
+eWe defined overcrowding as more than one person per room.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 67]
+ 
+Appendix II: Selected Characteristics of Colonias and Areas with Colonias in Each of the Four Border States  
+    
+Page 62 GAO -24-106732  Colonias Communities  Figure 20: Selected Characteristics of Colonias and Areas with Colonias in New Mexico  
+ 
+Totals may not equal 100 percent due to rounding. 
+aThis figure reflects the location of colonias included in HUD or University of New Mexico data as of 
+2010. 
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 68]
+ 
+Appendix II: Selected Characteristics of Colonias and Areas with Colonias in Each of the Four Border States  
+    
+Page 63  GAO -24-106732  Colonias Communities  bWe did not include the amount of targeted assistance provided to colonias through USDA ’s Single 
+Family Housing programs because we found that USDA ’s records for actual obligations to colonias 
+are not reliable. 
+cAreas with colonias are census tracts that contain one or more colonias included in HUD or 
+University of New Mexico data as of 2010.  
+dOther border regions are census tracts within 150 miles of the U.S.- Mexico border that do not 
+contain one or more colonias, as identified in HUD or University of New Mexico data as of 2010.  
+eWe excluded five census tracts with colonias that did not intersect with any flood hazard data, which 
+meant we could not assess their flood risk. 
+fWe defined overcrowding as more than one person per room.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 69]
+ 
+Appendix II: Selected Characteristics of Colonias and Areas with Colonias in Each of the Four Border States  
+    
+Page 64 GAO -24-106732  Colonias Communities  Figure 21: Selected Characteristics of Colonias and Areas with Colonias in Texas  
+ 
+Totals may not equal 100 percent due to rounding. 
+aThis figure reflects the location of colonias included in HUD data as of 2010. 
+
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 70]
+ 
+Appendix II: Selected Characteristics of Colonias and Areas with Colonias in Each of the Four Border States  
+    
+Page 65  GAO -24-106732  Colonias Communities  bWe did not include the amount of targeted assistance provided to colonias through USDA ’s Single 
+Family Housing programs because we found that USDA ’s records for actual obligations to colonias 
+are not reliable. 
+cAreas with colonias are census tracts that contain one or more colonias included in HUD data as of 
+2010.  
+dOther border regions are census tracts within 150 miles of the U.S.- Mexico border that do not 
+contain one or more colonias, as identified in HUD data as of 2010.  
+eWe did not assess flood risk in Texas because over 50 percent of census tracts with colonias in 
+Texas did not intersect with any flood hazard areas, which meant we could not assess their flood risk. 
+fWe defined overcrowding as more than one person per room.  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 71]
+ 
+Appendix III: Other Federal Programs That May Assist Colonias  
+    
+Page 66 GAO -24-106732  Colonias Communities  This appendix describes federal assistance to colonias through 
+Congressionally Directed Spending or Community Project Funding, as well as through programs with special features that benefit colonias and programs reported to be useful for colonias.  
+In fiscal years 2022 and 2023, according to agency data, Congressionally 
+Directed Spending or Community Project Funding provided $91 million for 
+grants to areas with colonias.
+1 These grants were administered by the 
+Environmental Protection Agency, the Department of Housing and Urban 
+Development, and the U.S. Department of Agriculture (USDA). Grants ranged from about $100,000 to $4 million for projects that included water 
+and wastewater improvements, home improvements, and community 
+development. 
+Table 6 lists federal programs with special features for colonias or certain 
+communities that include colonias.
+2 These features may include 
+prioritizing colonia projects in competitive applications or reserving a 
+portion of funding for technical assistance to colonias. All the identified 
+programs with these characteristics are USDA programs. According to USDA officials, between fiscal years 2020 through 2023, the Circuit Rider 
+Program provided technical assistance to colonias. The Regional Food 
+Business Centers program was launched in 2022. The Broadband Technical Assistance and ReConnect Loan and Grant Program 
+introduced special features for colonias in fiscal year 2023. The Farm 
+Labor Housing Program (Section 514 ), Rural Housing Site Loans (Section 
+524), and Rural Rental Housing New Construction Program (Section 515)  
+did not award funding to colonias during this period, according to USDA information. 
+ 
+1As part of the fiscal year 2022 and 2023 appropriations processes, Members of Congress 
+could request provisions designating an amount of funds to a particular recipient —such as 
+a local government or nonprofit organization —for a specific project. These provisions are 
+called “Congressionally Directed Spending” in the U.S. Senate and “Community Project 
+Funding” in the House of Representatives. GAO,  Tracking The Funds: Agencies Have 
+Begun Executing FY 2022 Community Project Funding/Congressionally Directed 
+Spending,  GAO-23-106318 (Washington, D.C.: Sept. 28, 2023).  
+2Table 6 does not include five programs that provided targeted assistance to colonias that 
+were the focus of this report: the Department of Housing and Urban Development ’s 
+Community Development Block Grant program and USDA ’s Water and Waste Facility 
+Loans and Grants to Alleviate Health Risks; Individual Water and Wastewater Grants; Direct Home Loans; and Home Repair Loans and Grants.  Appendix III: Other Federal Programs That 
+May Assist Colonias 
+Congressionally 
+Directed 
+Spending/Community 
+Project Funding  
+Programs with 
+Special Features for 
+Colonias  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 72]
+ 
+Appendix III: Other Federal Programs That May Assist Colonias  
+    
+Page 67 GAO -24-106732  Colonias Communities  Table 6: USDA Programs with Special Features for Colonias 
+Program  Program description  Assistance for colonias  
+Broadband Technical Assistance  Provides funding to eligible entities to 
+receive or deliver broadband technical 
+assistance and training, and to support the development and expansion of broadband cooperatives.  According to the agency, project applicants 
+receive additional points in a competitive application process for projects benefiting certain communities, including colonias.  
+Circuit Rider Program Technical Assistance 
+for Rural Water Systems  Provides technical assistance to rural water 
+systems that are experiencing operational, financial, or managerial issues.  Ten percent of technical assistance is 
+reserved for certain communities, including colonias.  
+Farm Labor Housing Program (Section 
+514)  Provides loans and grants to nonprofit 
+organizations and state, local, and tribal 
+governments for financing farm labor 
+housing.  There is a 5 percent set -aside and funding 
+preference for colonias per 42 U.S.C. § 1479 (f)(4).  
+ReConnect Loan and Grant Program  Provides loans and grants for the 
+construction, improvement, or acquisition of facilities and equipment needed to provide broadband service in eligible rural areas.  A 100 percent grant with no match 
+requirement is available to projects benefiting certain communities, including colonias.  
+Regional Food Business Centers  Supports food producers by providing 
+localized assistance to access a variety of markets, including linking producers to wholesalers and distributors.  Colonias were identified by USDA as a 
+high-priority area for service as part of Regional Food Center selection.  
+Rural Housing Site Loans (Section 524)  Loans to nonprofit organizations to acquire 
+and develop sites for low - or moderate-
+income families.  There is a 5 percent set -aside and funding 
+preference for colonias per 42 U.S.C. § 1479(f)(4).  
+Rural Rental Housing (Section 515)  Offers direct loans to eligible borrowers to 
+provide affordable housing and related 
+facilities for low - and moderate -income 
+households, elderly households, and 
+persons with disabilities living in rural areas.  There is a 5 percent set -aside and funding 
+preference for colonias per 42 U.S.C. § 1479(f)(4).  
+Source: GAO analysis of U.S. Department of Agriculture (USDA) information.   |  GAO -24-106732  
+ 
+Table 7 lists federal programs that do not target colonias through funding 
+or special features but were identified in interviews with state or local 
+government officials and nonprofit representatives as being useful to 
+colonias.3 
+ 
+3The Coronavirus State and Local Fiscal Recovery Funds program, authorized by the 
+American Rescue Plan Act of 2021, Pub. L. No. 117- 2, 135 Stat. 4, 223-228, was also 
+noted as helpful to colonias by local government representatives from Texas and Arizona. 
+We did not include it on our list because it was a one-time funding program. In addition, 
+the Department of Housing and Urban Development provides information on programs for 
+residents of colonias on its website at  https://www.hud.gov/groups/hudprograms .  Federal Programs 
+That May Be Useful 
+for Colonias  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 73]
+ 
+Appendix III: Other Federal Programs That May Assist Colonias  
+    
+Page 68 GAO -24-106732  Colonias Communities  Table 7: Selected Federal Programs Useful to Colonias  
+Agency  Program  Program Description  
+Environmental Protection Agency  U.S.-Mexico Border Water Infrastructure 
+Grant Program  This binational program provides grants to water 
+and wastewater facilities within 62 miles of the 
+border. Most funds are allotted to the North American Development Bank to implement project development activities and construction.  
+U.S. Department of Agriculture  Emergency and Imminent Community Water 
+Assistance Grants This program helps eligible communities prepare 
+for an imminent emergency or recover from an 
+emergency that threatens the availability of safe, reliable drinking water.  
+Section 523 Rural Housing Site Loan 
+program  Section 523 loans are used to acquire and 
+develop sites for housing to be constructed using the Self -Help method, in which families build 
+each other’s homes . 
+Department of Housing and Urban 
+Development  HOME Investment Partnerships Program  This program provides formula grants  to state 
+and local governments to produce and maintain affordable rental and homeownership housing 
+and provides tenant -based rental assistance for 
+low-income households.  
+Source: GAO analysis of Department of Housing and Urban Development, Environmental Protection Agency, and U.S. Department of Agriculture information.   |  GAO- 24-106732  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 74]
+ 
+Appendix IV: GAO Contact and Staff Acknowledgments  
+    
+Page 69 GAO -24-106732  Colonias Communities  Jill Naamane at (202) 512-8678 or naamanej@gao.gov . 
+In addition to the contact above, Lisa Moore (Assistant Director), Robert 
+Lowthian (Analyst in Charge), Lauren Capitini, Breanne Cave, Amor 
+Chambers, Colleen Moffatt Kimer, Jill Lacey, Moira Lenox, Grant Mallie, John Mingus, Marc Molino, Bryan Riccardi, and Jennifer Schwartz made key contributions to this report. 
+ Appendix IV: GAO Contact and Staff 
+Acknowledgments  
+GAO Contact  
+Staff 
+Acknowledgments  
+
+[Extract from GAO_PDF_20241020_220257.pdf - Page 76]
+ 
+   
+  
+The Government Accountability Office, the audit, evaluation, and investigative 
+arm of Congress, exists to support Congress in meeting its constitutional 
+responsibilities and to help improve the performance and accountability of the 
+federal government for the American people. GAO examines the use of public funds; evaluates federal programs and policies; and provides analyses, 
+recommendations, and other assistance to help Congress make informed 
+oversight, policy, and funding decisions. GAO’s commitment to good government is reflected in its core values of accountability, integrity, and reliability.  
+The fastest and easiest way to obtain copies of GAO documents at no cost is through our website. Each weekday afternoon, GAO posts on its website newly 
+released reports, testimony, and correspondence. You can also subscribe to 
+GAO’s email updates to receive notification of newly posted products.  
+The price of each GAO publication reflects GAO’s actual cost of production and 
+distribution and depends on the number of pages in the publication and whether 
+the publication is printed in color or black and white. Pricing and ordering 
+information is posted on GAO’s website, https://www.gao.gov/ordering.htm .  
+Place orders by calling (202) 512 -6000, toll free (866 ) 801-7077, or  
+TDD (202) 512- 2537. 
+Orders may be paid for using American Express, Discover Card, MasterC ard, 
+Visa, check , or money order. Call for additional information.  
+Connect with GAO on Facebook , Flickr , Twitter , and YouTube. 
+Subscribe to our RSS Feeds  or Email Updates . Listen to our  Podcasts . 
+Visit GAO on the web at https://www.gao.gov . 
+Contact  FraudNet:  
+Website:
+ https://www.gao.gov/about/what -gao-does/fraudnet  
+Automated answering system: (800) 424- 5454 or (202) 512 -7700  
+A. Nicole  Clowers , Managing Director, ClowersA@gao.gov , (202) 512- 4400, U.S. 
+Government Accountability Office, 441 G Street NW, Room 7125, Washington, DC 20548 
+Sarah Kaczmarek, Acting Managing Director, KaczmarekS@gao.gov , (202) 512 -
+4800, U.S. Government Accountability Office, 441 G Street NW, Room 7149  
+Washington, DC 20548  
+Stephen J. Sanford, Managing Director , spel@gao.gov , (202) 512 -4707  
+U.S. Government Accountability Office, 441 G Street NW, Room 7814, 
+Washington, DC 20548  GAO’s Mission  
+Obtaining Copies of 
+GAO Reports  and 
+Testimony  
+Order by Phone  
+Connect with GAO  
+To Report Fraud, 
+Waste, and Abuse  in 
+Federal Programs  
+Congressional 
+Relations  
+Public Affairs  
+Strategic Planning and 
+External Liaison  
+Please P rint on Recycled Paper.
