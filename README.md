@@ -180,7 +180,7 @@ focusing on accurate information retrieval, relevance ranking, and delivering co
 responses. The subsequent sections provide a detailed breakdown of the technical and logical
 underpinnings of this workflow.
 
-### Software and Libraries
+## Software and Libraries
 Programming Language: ![Python](https://github.com/arnab-raychaudhari/stock-aggregation-data-pipeline/blob/9f69abd4d570c16be5bc47b330bca84032e24aa5/logos--python.svg)<b><a href="https://www.python.org/about/" target="_blank">Python</a></b>
 
 Python is a versatile, high level programming language known for its readability and vast
@@ -609,6 +609,7 @@ These questions ensure that the system is aligned with real world analytical nee
 online mode code implemented.
 
 <b>Figure 7: Online Mode Code Snippet</b>
+
 ![Figure 7: Online Mode Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/08a59fcc77eb680c84bf4a4b4ce08db3b892a2bc/Figure%207%20Online%20Mode%20Code%20Snippet.png)
 
 #### Gradio Interface
@@ -694,6 +695,7 @@ application.
 • Projects professionalism and polish, improving overall user experience.
 
 <b>Figure 8: Gradio Interface Code Snippet</b>
+
 ![Figure 8: Gradio Interface Code Snippet](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/1d8e1692fa59272553d614de4bada529b8658dfa/Figure%208%20Gradio%20Interface%20Code%20Snippet.png)
 
 #### Network Analysis
@@ -870,6 +872,7 @@ comparative advantages of RAG in enhancing both contextual relevance and output 
 #### Results
 
 <b>Figure 9: Input User Query</b>
+
 ![Figure 9: Input User Query](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d28cb44398065cf808c6d40939a302c8a5522144/Figure%209%20Input%20User%20Query.png)
 
 Figure 9 shows the system interface allowing the user to input a query about transportation
@@ -878,6 +881,7 @@ Transportation, Federal Lands Transportation, and Federal Lands Access from 2022
 chart.
 
 <b>Figure 10: Configuration Screenshot</b>
+
 ![Figure 10: Configuration Screenshot](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d28cb44398065cf808c6d40939a302c8a5522144/Figure%2010%20Configuration%20Screenshot.png)
 
 Figure 10 shows the user opted for both retrievals ranking (RAG) and the "Chart it up" feature.
@@ -885,6 +889,7 @@ These choices ensure that the system retrieves ranked, contextually relevant dat
 database and visualizes the numerical output for better interpretation.
 
 <b>Figure 11: Rag Response Screenshot</b>
+
 ![Figure 11: Rag Response Screenshot](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d28cb44398065cf808c6d40939a302c8a5522144/Figure%2011%20Rag%20Response%20Screenshot.png)
 
 Figure 11 shows the query output when the RAG database is utilized (Rag Response). The response
@@ -904,6 +909,7 @@ facilitating easy interpretation.
 context and ensures the response aligns precisely with the user’s query.
 
 <b>Figure 12: UnRag Response Screenshot</b>
+
 ![Figure 12: UnRag Response Screenshot](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d28cb44398065cf808c6d40939a302c8a5522144/Figure%2012%20UnRag%20Response%20Screenshot.png)
 
 Figure 12 shows the UnRag response where the database is not utilized. The UnRAG response
@@ -918,6 +924,7 @@ relevant to the query.
 increasing time and effort.
 
 <b>Figure 13: Bar Graph for the Data Screenshot</b>
+
 ![Figure 13: Bar Graph for the Data Screenshot](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d28cb44398065cf808c6d40939a302c8a5522144/Figure%2013%20Bar%20Graph%20for%20the%20Data%20Screenshot.png)
 
 Figure 13 shows the bar graph obtaining by plotting values parsed from the query output. The chart
@@ -931,6 +938,7 @@ funding for Federal Lands Access compared to Tribal Transportation).
 or communicate findings effectively.
 
 <b>Figure 14: Network Analysis (USA Spending Light) Screenshot</b>
+
 ![Figure 14: Network Analysis (USA Spending Light) Screenshot](https://github.com/arnab-raychaudhari/RAGov-contract-analysis/blob/d28cb44398065cf808c6d40939a302c8a5522144/Figure%2014%20Network%20Analysis%20(USA%20Spending%20Light)%20Screenshot.png)
 
 Figure 14 shows the network analysis diagram generated for the Usa Spending light data. The
