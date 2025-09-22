@@ -1,4 +1,4 @@
-# RAGov-contract-analysis
+# RAG-Enhanced Contract Intelligence with LLMs for Federal Contracts
 Leveraging AI to Enhance Data Driven Insights for Government Contracts
 
 ## Business Practicum Engagement
